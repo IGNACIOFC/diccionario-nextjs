@@ -5,6 +5,7 @@ export default function transformArray(inputArray) {
     if (inputArray[i].role === "Prompt" && inputArray[i + 1]?.role === "Response") {
       const response = inputArray[i + 1].say
         .replace("Frase de ejemplo:", "\n\nFrase de ejemplo:")
+        .replace("Ejemplo:", "\n\nEjemplo:")
         .replace("Sinónimos:", "\n\nSinónimos:");
 
         outputArray.push({
