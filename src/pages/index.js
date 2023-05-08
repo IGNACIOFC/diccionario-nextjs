@@ -25,7 +25,7 @@ export default function App() {
   }, [])
 
   if (!session) {
-    return (<Auth />)
+    return (<div className='containerAuth'><Auth /></div>)
   }
   else {
     return (<Home />)
