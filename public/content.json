@@ -1,14 +1,6 @@
 [
   {
     "role": "Prompt",
-    "say": "Adamantina"
-  },
-  {
-    "role": "Response",
-    "say": "Adamantina es una ciudad brasileña ubicada en el estado de São Paulo. Se encuentra en la región suroeste del estado y es parte de la microrregión de Adamantina. La ciudad fue fundada el 24 de junio de 1948 y su nombre se deriva de la palabra \"adamant\", que significa diamante en inglés. Esto es una referencia a la esperanza de encontrar diamantes en la región durante su fundación.En este caso, \"Adamantina\" no es una palabra de uso común en el vocabulario español, sino que es un nombre propio de una ciudad. Si tienes otras palabras o conceptos que desees que te explique, no dudes en preguntarme."
-  },
-  {
-    "role": "Prompt",
     "say": "Puridad"
   },
   {
@@ -33,7 +25,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Exangüe "
+    "say": "Exangüe"
   },
   {
     "role": "Response",
@@ -41,7 +33,7 @@
   },
   {
     "role": "Prompt",
-    "say": "augusta"
+    "say": "Augusta"
   },
   {
     "role": "Response",
@@ -81,7 +73,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Inescrutable "
+    "say": "Inescrutable"
   },
   {
     "role": "Response",
@@ -89,7 +81,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Imperiosa "
+    "say": "Imperiosa"
   },
   {
     "role": "Response",
@@ -97,7 +89,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Receloso "
+    "say": "Receloso"
   },
   {
     "role": "Response",
@@ -113,7 +105,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Alevosía "
+    "say": "Alevosía"
   },
   {
     "role": "Response",
@@ -129,7 +121,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Lascivamente "
+    "say": "Lascivamente"
   },
   {
     "role": "Response",
@@ -145,7 +137,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Congénito "
+    "say": "Congénito"
   },
   {
     "role": "Response",
@@ -177,7 +169,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Primicia "
+    "say": "Primicia"
   },
   {
     "role": "Response",
@@ -241,7 +233,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Relente "
+    "say": "Relente"
   },
   {
     "role": "Response",
@@ -625,15 +617,15 @@
   },
   {
     "role": "Prompt",
-    "say": "Conpuncion"
+    "say": "Compunción"
   },
   {
     "role": "Response",
-    "say": "La palabra \"conpuncion\" parece contener un error tipográfico. Creo que la palabra que buscas es \"compunción\".Compunción es un sustantivo que se refiere al sentimiento de remordimiento, arrepentimiento o culpa que experimenta una persona después de haber cometido una falta o un error. La compunción puede llevar a alguien a buscar enmendar sus acciones y a pedir disculpas o perdón a aquellos a quienes haya perjudicado. Es una emoción que refleja la conciencia moral y la preocupación por las consecuencias de las propias acciones.Frase de ejemplo: Después de haber herido los sentimientos de su amiga con palabras duras, María sintió una profunda compunción y se disculpó sinceramente.Sinónimos: remordimiento, arrepentimiento, pesar, culpa, contrición."
+    "say": "Compunción es un sustantivo que se refiere al sentimiento de remordimiento, arrepentimiento o culpa que experimenta una persona después de haber cometido una falta o un error. La compunción puede llevar a alguien a buscar enmendar sus acciones y a pedir disculpas o perdón a aquellos a quienes haya perjudicado. Es una emoción que refleja la conciencia moral y la preocupación por las consecuencias de las propias acciones.Frase de ejemplo: Después de haber herido los sentimientos de su amiga con palabras duras, María sintió una profunda compunción y se disculpó sinceramente.Sinónimos: remordimiento, arrepentimiento, pesar, culpa, contrición."
   },
   {
     "role": "Prompt",
-    "say": "Devocion"
+    "say": "Devoción"
   },
   {
     "role": "Response",
@@ -689,7 +681,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Displicencia "
+    "say": "Displicencia"
   },
   {
     "role": "Response",
@@ -857,7 +849,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Afines "
+    "say": "Afin "
   },
   {
     "role": "Response",
@@ -1097,14 +1089,6 @@
   },
   {
     "role": "Prompt",
-    "say": "Fragante "
-  },
-  {
-    "role": "Response",
-    "say": "ChatGPTChatGPT1 / 1"
-  },
-  {
-    "role": "Prompt",
     "say": "Evanescencia "
   },
   {
@@ -1137,7 +1121,7 @@
   },
   {
     "role": "Prompt",
-    "say": "condescendencia"
+    "say": "Condescendencia"
   },
   {
     "role": "Response",
@@ -1145,15 +1129,15 @@
   },
   {
     "role": "Prompt",
-    "say": "vericuetos"
+    "say": "Vericueto"
   },
   {
     "role": "Response",
-    "say": "Vericuetos es un sustantivo que se utiliza para describir un camino o camino estrecho y sinuoso que puede ser difícil de seguir. También se utiliza en sentido figurado para describir una situación complicada, llena de obstáculos y dificultades.Frase de ejemplo: El abogado logró encontrar una solución al caso después de navegar por los vericuetos de la ley.Sinónimos: laberinto, complicación, dificultad, obstáculo, entramado, enredo, intrincación, enmarañamiento."
+    "say": "Vericueto es un sustantivo que se utiliza para describir un camino o camino estrecho y sinuoso que puede ser difícil de seguir. También se utiliza en sentido figurado para describir una situación complicada, llena de obstáculos y dificultades.Frase de ejemplo: El abogado logró encontrar una solución al caso después de navegar por los vericuetos de la ley.Sinónimos: laberinto, complicación, dificultad, obstáculo, entramado, enredo, intrincación, enmarañamiento."
   },
   {
     "role": "Prompt",
-    "say": "mesnada"
+    "say": "Mesnada"
   },
   {
     "role": "Response",
@@ -1161,7 +1145,7 @@
   },
   {
     "role": "Prompt",
-    "say": "sin dar cuartel"
+    "say": "No dar cuartel"
   },
   {
     "role": "Response",
@@ -1169,7 +1153,7 @@
   },
   {
     "role": "Prompt",
-    "say": "infame"
+    "say": "Infame"
   },
   {
     "role": "Response",
@@ -1177,7 +1161,7 @@
   },
   {
     "role": "Prompt",
-    "say": "ambrear"
+    "say": "Ambrear"
   },
   {
     "role": "Response",
@@ -1297,7 +1281,7 @@
   },
   {
     "role": "Prompt",
-    "say": "Confutacion"
+    "say": "Confutación"
   },
   {
     "role": "Response",
@@ -1425,30 +1409,6 @@
   },
   {
     "role": "Prompt",
-    "say": "Manducatoria"
-  },
-  {
-    "role": "Response",
-    "say": "\"Manducatoria\" no es una palabra del idioma español reconocida en el diccionario de la Real Academia Española o en otros diccionarios de uso común. Por lo tanto, no se puede proporcionar una explicación o ejemplo de uso para esta palabra. ¿Podría proporcionar más contexto o información para aclarar a qué se refiere con \"manducatoria\"?"
-  },
-  {
-    "role": "Prompt",
-    "say": "Inplume"
-  },
-  {
-    "role": "Response",
-    "say": "La palabra \"inplume\" no existe en el diccionario de la lengua española. ¿Podría haberse equivocado en la escritura o podría proporcionar más contexto para aclarar su significado?"
-  },
-  {
-    "role": "Prompt",
-    "say": "Implume"
-  },
-  {
-    "role": "Response",
-    "say": "\"Implume\" no es una palabra reconocida en español. Quizás quiso decir \"inflame\", que significa \"encender\" o \"avivar\". Si es así, aquí va la definición y un ejemplo:Inflame: avivar o encender algo, generalmente una pasión o un sentimiento.\nEjemplo: La música que tocaba la orquesta inflamó los corazones de la multitud."
-  },
-  {
-    "role": "Prompt",
     "say": "Crótalo "
   },
   {
@@ -1489,10 +1449,586 @@
   },
   {
     "role": "Prompt",
-    "say": "Furrieleria"
+    "say": "Teandrico"
   },
   {
     "role": "Response",
-    "say": "\"furrielería\" no es una palabra reconocida en español, pero puede que se refiera a \"furrulería\" que es una palabra antigua que significa \"artesanía o comercio de trabajos de pieles de animales\". ¿Desea conocer más sobre esta palabra?"
+    "say": "El término \"teandrico\" proviene del griego \"theos\" que significa \"dios\" y \"aner\" que significa \"hombre\". Por lo tanto, \"teandrico\" se refiere a la unión de lo divino y lo humano en una sola entidad o manifestación."
+  },
+  {
+    "role": "Prompt",
+    "say": "celo literario"
+  },
+  {
+    "role": "Response",
+    "say": "La expresión \"celo literario\" hace referencia a la dedicación y empeño que un escritor o literato pone en su obra. La palabra \"celo\" proviene del latín \"zelus\", que significa \"ardor\" o \"entusiasmo\". Por tanto, el \"celo literario\" puede entenderse como el ardor o la pasión que un escritor pone en su obra literaria."
+  },
+  {
+    "role": "Prompt",
+    "say": "adolecer"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"adolecer\" proviene del latín \"adolēscere\", que significa \"crecer, desarrollarse\" y posteriormente adquirió el sentido de \"sufrir una enfermedad\". En castellano, el término se utiliza para referirse a alguien que padece de una enfermedad o sufre de alguna carencia o defecto.Ejemplo: \"La industria adolece de falta de innovación\".Sinónimos: sufrir, padecer, carecer, tener carencia, experimentar déficit."
+  },
+  {
+    "role": "Prompt",
+    "say": "ungüento"
+  },
+  {
+    "role": "Response",
+    "say": "Un ungüento es una preparación semisólida o líquida que se aplica en la piel para tratar afecciones o para mejorar su apariencia. El término proviene del latín \"unguentum\", que significa \"ungüento\", \"crema\" o \"pomada\". El uso de ungüentos para el cuidado de la piel y el tratamiento de enfermedades se remonta a la antigua Grecia y Roma, donde se utilizaban aceites vegetales y animales mezclados con hierbas y otros ingredientes para hacer preparaciones curativas."
+  },
+  {
+    "role": "Prompt",
+    "say": "Estupor"
+  },
+  {
+    "role": "Response",
+    "say": "El estupor es una sensación de sorpresa y asombro intenso que puede producir aturdimiento o desconcierto. Su origen etimológico proviene del latín \"stupor\", que significa \"asombro, aturdimiento\", a su vez derivado del verbo \"stupere\", que significa \"estar atónito\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Abjurar"
+  },
+  {
+    "role": "Response",
+    "say": "El verbo \"abjurar\" significa renunciar públicamente a una creencia, una religión o una opinión. También puede referirse a negar o retractarse de algo que se ha afirmado o sostenido anteriormente.Sinónimos: renunciar, retractarse, desdecirse, abdicar, apostatar, abandonar, desistir.Ejemplo: El científico abjuró de sus teorías previas cuando descubrió nueva evidencia que contradecía sus afirmaciones anteriores.Etimología: El término \"abjurar\" proviene del latín \"abiurare\", que significa \"renunciar bajo juramento\". La palabra se forma por la combinación de \"ab-\", que indica una separación o alejamiento, y \"iurare\", que significa \"jurar\". Originalmente se utilizaba para referirse a la renuncia pública que hacían los herejes a sus creencias religiosas bajo juramento en la Edad Media."
+  },
+  {
+    "role": "Prompt",
+    "say": "Recrudecido"
+  },
+  {
+    "role": "Response",
+    "say": "\"Recrudecido\" es un adjetivo que se utiliza para describir algo que se ha intensificado o agravado. Puede referirse a una situación, un problema o una enfermedad, entre otros.Ejemplo:\nDespués de varios días de lluvia, el frío se ha recrudecido en la ciudad.Sinónimos:\nIntensificado, agravado, exacerbado, agudizado, empeorado.Etimología:\nProviene del latín \"recrudescere\", que significa \"hacerse más duro, volver a endurecerse\", compuesto por \"re\" (de nuevo) y \"crudus\" (duro, crudo)."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desdichado"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"desdichado\" se refiere a alguien que está sufriendo o pasando por un momento difícil, generalmente debido a la mala suerte o a una situación desafortunada. La palabra proviene del latín \"dis-,\" que significa \"mal\" o \"difícil\", y \"dictus\", que significa \"hablar\" o \"decir\". Por lo tanto, \"desdichado\" originalmente se refería a alguien que había hablado o dicho algo malo y, por lo tanto, estaba siendo castigado por ello. Ejemplo: \"El desdichado perdió su trabajo y su casa en el mismo día\". Sinónimos: desafortunado, infeliz, desventurado, infortunado, triste, angustiado."
+  },
+  {
+    "role": "Prompt",
+    "say": "Arquetipo"
+  },
+  {
+    "role": "Response",
+    "say": "El término \"arquetipo\" se refiere a un modelo original o patrón que se repite en diferentes contextos. Se deriva del griego \"archetypon\", que significa \"patrón original\" o \"molde primordial\".Sinónimos: modelo, patrón, prototipo, ejemplar, tipo.Ejemplo: El héroe es un arquetipo común en la literatura y el cine, que representa la valentía, la fuerza y la lucha contra el mal."
+  },
+  {
+    "role": "Prompt",
+    "say": "Congraciarse"
+  },
+  {
+    "role": "Response",
+    "say": "El verbo \"congraciarse\" significa ganarse el favor o la amistad de alguien, reconciliarse con alguien o hacer las paces.Ejemplo: Después de una discusión, él intentó congraciarse con su amigo llevándole un regalo.Sinónimos: agradar, cautivar, conquistar, encantar, ganar, reconciliarse, satisfacer.Etimología: Proviene del latín \"congratiari\" que significa \"dar las gracias\", formado por \"con-\" que significa \"junto\" y \"gratia\" que significa \"gracia\" o \"favor\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Herir susceptibilidades"
+  },
+  {
+    "role": "Response",
+    "say": "\"Herir susceptibilidades\" es una expresión que se utiliza para referirse a una situación en la que alguien se siente ofendido o molesto por algo que se ha dicho o hecho. Puede ser utilizado en diversos contextos, como en relaciones personales, profesionales o políticas. Algunos sinónimos de \"herir susceptibilidades\" son: ofender, molestar, incomodar, provocar, irritar, disgustar, entre otros.Ejemplo: Después de sus comentarios inapropiados sobre mi trabajo, me di cuenta de que había herido sus susceptibilidades.Etimológicamente, \"herir\" viene del latín \"ferire\" que significa \"golpear\" o \"dar un golpe\". \"Susceptibilidad\" proviene del latín \"susceptibilis\", que significa \"que puede ser afectado o influido\" y se utiliza en referencia a la capacidad de una persona para ser afectada por algo."
+  },
+  {
+    "role": "Prompt",
+    "say": "Aprensiva"
+  },
+  {
+    "role": "Response",
+    "say": "El término \"aprensiva\" se refiere a una persona que es propensa a tener aprensiones o temores infundados. Puede proceder del latín \"apprehensivus\", que significa \"sensible, cauteloso, temeroso\", y a su vez deriva de \"apprehendere\", que significa \"agarrar, tomar, entender\".Sinónimos: temerosa, asustadiza, aprensiva, nerviosa, miedosa, cautelosa.Ejemplo: La niña era muy aprensiva y no quería entrar en el parque de atracciones porque le daba miedo que se rompieran las atracciones y se cayera."
+  },
+  {
+    "role": "Prompt",
+    "say": "Montaraz"
+  },
+  {
+    "role": "Response",
+    "say": "El adjetivo \"montaraz\" se utiliza para referirse a alguien o algo que es agreste, silvestre o salvaje. También puede hacer referencia a alguien que vive en los montes o que está acostumbrado a ellos.Ejemplo: \"Los montaraces luchaban valientemente contra los invasores que intentaban conquistar su territorio.\"Sinónimos: agreste, silvestre, salvaje, rudo, tosco, brusco, abrupto.Etimología: La palabra \"montaraz\" proviene del latín \"montarius\", que significa \"montañés\" o \"hombre de montaña\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Retrechera"
+  },
+  {
+    "role": "Response",
+    "say": "\"Retrechera\" es un sustantivo femenino que se utiliza para referirse a una mujer mal hablada o de comportamiento rudo y poco refinado. Es un término que tiene una connotación negativa y despectiva.Sinónimos: grosera, descortés, mal educada, tosca, vulgar.Ejemplo: La retrechera de la vecina siempre habla con un tono alto y no tiene modales en la mesa.Etimología: No se dispone de información precisa sobre la etimología de esta palabra."
+  },
+  {
+    "role": "Prompt",
+    "say": "Premonición "
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"premonición\" se utiliza para referirse a una percepción anticipada de algo que va a suceder en el futuro, como una corazonada o presentimiento.Etimológicamente, la palabra \"premonición\" proviene del latín \"praemonitio\", que a su vez se deriva de \"praemonere\", que significa \"advertir de antemano\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Enarbolar"
+  },
+  {
+    "role": "Response",
+    "say": "El verbo \"enarbolar\" proviene del latín \"in\" que significa \"en\" y \"arbor\" que significa \"árbol\". Por lo tanto, la etimología de \"enarbolar\" se refiere a la acción de poner un objeto en lo alto como un árbol.Sinónimos: izar, levantar, alzar, agitarEjemplo: El equipo enarbola la bandera de su país antes de cada partido."
+  },
+  {
+    "role": "Prompt",
+    "say": "Onírico "
+  },
+  {
+    "role": "Response",
+    "say": "Onírico es un adjetivo que se refiere a lo que está relacionado con los sueños o que parece tener la naturaleza de un sueño. La palabra proviene del griego ὄνειρος (oneiros), que significa \"sueño\".Ejemplo: La película tiene un ambiente onírico que hace que parezca un sueño.Sinónimos: onírico, irreal, fantástico, surrealista."
+  },
+  {
+    "role": "Prompt",
+    "say": "Zafarrancho"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"zafarrancho\" se utiliza para referirse a una acción de orden y limpieza, o bien para referirse a una disputa o riña tumultuosa. Se trata de un sustantivo masculino que proviene del portugués \"zafarrancho\", que significa \"comida frugal\" o \"refrigerio\". También se relaciona con la palabra \"zafra\", que se refiere a la recolección de la caña de azúcar en América Latina."
+  },
+  {
+    "role": "Prompt",
+    "say": "Quina"
+  },
+  {
+    "role": "Response",
+    "say": "\"Quina\" es una sustancia amarga extraída de la corteza de algunos árboles, utilizada en la medicina como tónico y febrífugo. La palabra proviene del quechua \"quina\" que significa \"corteza amarga\".Ejemplo: Tomaré una infusión de quina para aliviar la fiebre.Sinónimos: cascarilla, quinina."
+  },
+  {
+    "role": "Prompt",
+    "say": "Neurosis "
+  },
+  {
+    "role": "Response",
+    "say": "La neurosis se refiere a un trastorno psicológico que provoca ansiedad, miedo, preocupación, angustia y otros síntomas similares. La palabra \"neurosis\" proviene del griego \"neuron\", que significa \"nervio\", y \"osis\", que significa \"condición o proceso\".Ejemplo: El paciente presenta una neurosis de ansiedad generalizada.Sinónimos: trastorno psicológico, perturbación emocional, desorden mental, alteración psíquica."
+  },
+  {
+    "role": "Prompt",
+    "say": "Convulso"
+  },
+  {
+    "role": "Response",
+    "say": "El adjetivo \"convulso\" se refiere a algo o alguien que sufre de convulsiones, movimientos musculares violentos e incontrolados. También puede hacer referencia a algo que está agitado o turbulento.Sinónimos: agitado, turbulento, convulsionado, sacudido, tembloroso.Ejemplo: La crisis política desató un clima convulso en el país.Etimología: Proviene del latín \"convulsus\", participio pasado de \"convelsere\", que significa \"sacudir violentamente, agitar con fuerza\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Postigo "
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"postigo\" proviene del latín \"posticum\", que significa \"entrada trasera\" o \"puerta posterior\". Se refiere a una pequeña puerta que se encuentra en la parte trasera de una casa o edificio.Sinónimos: puerta trasera, portón, cancela.Ejemplo: Juan salió de la casa por el postigo de la cocina para no molestar a su familia."
+  },
+  {
+    "role": "Prompt",
+    "say": "Iracundo"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"iracundo\" se refiere a alguien que está enojado, furioso o colérico. Esta palabra proviene del latín \"iracundus\", que significa \"propenso a la ira\" y a su vez deriva del verbo \"irasci\", que significa \"enojarse\".Ejemplo: El iracundo conductor gritaba y golpeaba el volante mientras se encontraba atrapado en el tráfico.Sinónimos: furioso, enojado, colérico, irascible, airado, irritable, explosivo, rabioso, encendido, exaltado."
+  },
+  {
+    "role": "Prompt",
+    "say": "Cofia"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"cofia\" se refiere a una prenda de vestir que cubre la cabeza y el cuello, típicamente usada por mujeres. La etimología de \"cofia\" proviene del latín \"cophinus\", que significa \"cesta\". La palabra se usó para referirse a la cesta que se usaba para transportar y almacenar la ropa de cama, pero luego se adoptó para referirse a la prenda de vestir que se parecía a la forma de una cesta."
+  },
+  {
+    "role": "Prompt",
+    "say": "Oropel"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"oropel\" se refiere a un objeto de apariencia brillante o reluciente pero que en realidad es falso o de poco valor. Por ejemplo, un adorno de oropel podría ser un collar o una pulsera de metal que se parecen a joyas auténticas pero que en realidad están hechos de materiales baratos.Etimológicamente, la palabra \"oropel\" proviene del latín \"aurum\" (oro) y \"pallium\" (manto o vestido). Originalmente, se refería a un tejido con hilos de oro utilizado para confeccionar prendas de vestir lujosas y brillantes. Con el tiempo, el significado de la palabra se amplió para incluir cualquier cosa que se asemeje al oro pero que no lo sea en realidad."
+  },
+  {
+    "role": "Prompt",
+    "say": "Tahúr "
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"tahúr\" se refiere a una persona que juega de manera fraudulenta o deshonesta, por lo general en juegos de azar.Etimológicamente, la palabra \"tahúr\" proviene del latín \"taxator\", que significa \"evaluador\" o \"tasador\". Con el tiempo, el término adquirió el significado de \"jugador\" y, más tarde, de \"jugador fraudulento\". En español, la palabra \"tahúr\" se ha utilizado desde al menos el siglo XVII y se deriva directamente del francés \"tahur\", que a su vez proviene del italiano \"tagliatore\", que significa \"cortador\" o \"repartidor de cartas\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Cadalso "
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"cadalso\" proviene del latín \"cadere\", que significa \"caer\", y \"altus\", que significa \"alto\". La palabra se refería originalmente a una plataforma elevada en la que se llevaban a cabo ejecuciones públicas, generalmente mediante la horca o la guillotina. Con el tiempo, el término \"cadalso\" se ha utilizado para referirse a cualquier estructura elevada utilizada para ejecuciones, así como a la propia ejecución en sí."
+  },
+  {
+    "role": "Prompt",
+    "say": "Puritanismo "
+  },
+  {
+    "role": "Response",
+    "say": "El término \"puritanismo\" se refiere a la actitud o comportamiento moralmente riguroso y austero, especialmente en cuestiones de religión y moralidad sexual. La palabra proviene del inglés \"Puritanism\", que se utilizó para describir a los miembros de un grupo religioso protestante del siglo XVI que buscaba una \"purificación\" de la Iglesia de Inglaterra. Los puritanos se oponían a muchas de las prácticas y creencias de la Iglesia de Inglaterra y buscaban una mayor pureza y simplicidad en la adoración y la vida cristiana."
+  },
+  {
+    "role": "Prompt",
+    "say": "Umbrío "
+  },
+  {
+    "role": "Response",
+    "say": "\"Umbrío\" es un adjetivo que se refiere a algo o alguien sombrío, oscuro, tenebroso o que se caracteriza por la falta de luz. Su etimología proviene del latín \"umbra\", que significa \"sombra\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ariete"
+  },
+  {
+    "role": "Response",
+    "say": "\"Ariete\" es un sustantivo que se refiere a un tipo de máquina de asedio utilizada en la Edad Media para derribar murallas y puertas. También puede usarse metafóricamente para referirse a una persona o cosa que se utiliza para vencer una resistencia obstinada o difícil.La palabra \"ariete\" proviene del latín \"aries\", que significa \"carnero\". Esto se debe a que la máquina de asedio tiene una cabeza en forma de carnero que golpea repetidamente contra el objeto a destruir, imitando así la acción del animal al embestir con su cabeza."
+  },
+  {
+    "role": "Prompt",
+    "say": "Inusitadamente "
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"inusitadamente\" se compone de tres elementos:\"in-\", un prefijo que indica negación o ausencia, como en \"injusto\".\"usitado\", un adjetivo que significa común, habitual o convencional.\"-mente\", un sufijo que se usa para formar adverbios a partir de adjetivos.En conjunto, \"inusitadamente\" se refiere a algo que sucede de una manera poco común, infrecuente o inusual. Por ejemplo: \"La película fue un éxito inusitadamente grande en el extranjero\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Imbuido"
+  },
+  {
+    "role": "Response",
+    "say": "La palabra \"imbuido\" se refiere a estar profundamente impregnado o influenciado por una idea o sentimiento. Su etimología proviene del latín \"imbūtus\", participio pasado del verbo \"imbuere\", que significa \"empapar\" o \"mojar\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ofuscado "
+  },
+  {
+    "role": "Response",
+    "say": "El término \"ofuscado\" se refiere a estar confundido, desorientado o con dificultad para comprender algo claramente. También puede expresar un estado de alteración emocional, como la ira o el enojo que nubla el juicio.Etimológicamente, la palabra \"ofuscado\" proviene del latín \"offuscatus\", que significa \"oscurecido\" o \"enturbiado\". Está compuesto por el prefijo \"ob-\" que indica \"contra\" o \"en contra de\", y el verbo \"fuscare\" que significa \"oscurecer\" o \"nublar\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ofuscado"
+  },
+  {
+    "role": "Response",
+    "say": "Ofuscado es un adjetivo que se utiliza para describir a alguien que está confundido, desorientado o que tiene dificultad para comprender algo claramente. También puede referirse a alguien que está alterado emocionalmente, especialmente por la ira o el enojo, lo cual puede afectar su capacidad de razonamiento.Sinónimos: Confundido, desorientado, turbado, perplejo, desconcertado, enojado, irritado.Ejemplo: Después de la discusión, Juan estaba tan ofuscado que no podía expresar sus pensamientos con claridad."
+  },
+  {
+    "role": "Prompt",
+    "say": "Tupido "
+  },
+  {
+    "role": "Response",
+    "say": "\"Tupido\" es un adjetivo que se utiliza para describir algo o alguien que es denso, espeso o compacto, especialmente en relación a la vegetación, el cabello o cualquier otra cosa que esté muy apretada o concentrada.Sinónimos: Espeso, denso, compacto, cerrado, frondoso, abundante.Ejemplo: El bosque estaba tan tupido que apenas se podía ver el sol entre las ramas."
+  },
+  {
+    "role": "Prompt",
+    "say": "Otear"
+  },
+  {
+    "role": "Response",
+    "say": "\"Otear\" es un verbo que se refiere a observar o mirar atentamente, generalmente desde un lugar elevado, para buscar algo o alguien en la distancia. Se utiliza especialmente para referirse a la acción de escudriñar el horizonte o un área en busca de señales o indicios.Sinónimos: Mirar, observar, divisar, avistar, escrutar.Ejemplo: Desde la cima de la montaña, oteaban el horizonte en busca de cualquier señal de ayuda."
+  },
+  {
+    "role": "Prompt",
+    "say": "Azorada"
+  },
+  {
+    "role": "Response",
+    "say": "\"Azorada\" es un adjetivo que se utiliza para describir a una persona que se encuentra sorprendida, desconcertada o asustada. Suele estar relacionado con una reacción repentina o inesperada ante una situación o evento.Sinónimos: Sorprendida, desconcertada, asustada, sobresaltada, aturdida, pasmada.Ejemplo: Al escuchar el ruido fuerte, se quedó azorada y no supo cómo reaccionar."
+  },
+  {
+    "role": "Prompt",
+    "say": "Sainete"
+  },
+  {
+    "role": "Response",
+    "say": "\"Sainete\" es un sustantivo que se utiliza para referirse a un género teatral cómico y satírico que se caracteriza por situaciones exageradas, personajes caricaturescos y diálogos humorísticos. Los sainetes suelen representar escenas de la vida cotidiana con un tono burlesco y divertido.Sinónimos: Comedia, farsa, divertimento, bufonada.Ejemplo: Asistimos a una función de sainete y nos reímos sin parar con las situaciones absurdas que se representaban en el escenario."
+  },
+  {
+    "role": "Prompt",
+    "say": "Parnaso"
+  },
+  {
+    "role": "Response",
+    "say": "\"Parnaso\" se refiere al monte de la mitología griega donde residían las Musas, diosas de la inspiración artística y poética. Por extensión, el término \"Parnaso\" se utiliza para referirse al mundo de la poesía y la literatura en general, como un símbolo de la inspiración y la creatividad.Sinónimos: Literatura, poesía, mundo de las letras, musas.Ejemplo: El poeta recibió reconocimiento por su talento y se ganó un lugar en el Parnaso de la poesía contemporánea."
+  },
+  {
+    "role": "Prompt",
+    "say": "Circunflejo "
+  },
+  {
+    "role": "Response",
+    "say": "\"Circunflejo\" es un sustantivo que se refiere a un signo de puntuación (ˆ) que se coloca sobre una vocal en algunas palabras de varios idiomas para indicar cambios en la pronunciación o acentuación. También puede referirse a una curva o arco suave y lento.Sinónimos: Acento circunflejo, acento grave, curva, arco.Ejemplo: En la palabra \"crème\", se utiliza un circunflejo sobre la \"e\" para indicar que se pronuncia como una vocal larga."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desalado"
+  },
+  {
+    "role": "Response",
+    "say": "\"Desalado\" es un adjetivo que se utiliza para describir algo que ha perdido su sabor salado o que ha sido desprovisto de sal. También puede hacer referencia a una persona o animal que ha perdido su energía o viveza.Sinónimos: Sin sal, insípido, desaborido, desabrido, deslucido, apagado.Ejemplo: El pollo a la parrilla estaba desalado y le faltaba sabor."
+  },
+  {
+    "role": "Prompt",
+    "say": "Maltrecho "
+  },
+  {
+    "role": "Response",
+    "say": "\"Maltrecho\" es un adjetivo que se utiliza para describir algo o alguien que está dañado, herido o en mal estado físico. Se refiere a algo que ha sufrido un deterioro o ha sido golpeado violentamente.Sinónimos: Dañado, herido, deteriorado, lastimado, afectado, golpeado.Ejemplo: Después del accidente de coche, el vehículo quedó maltrecho y requirió reparaciones importantes."
+  },
+  {
+    "role": "Prompt",
+    "say": "Lance"
+  },
+  {
+    "role": "Response",
+    "say": "\"Lance\" puede tener diferentes significados dependiendo del contexto:Como sustantivo, \"lance\" se refiere a una situación o evento que implica desafío, riesgo o confrontación, especialmente en el ámbito deportivo o de combate. También puede hacer referencia a una disputa o conflicto.Sinónimos: Contienda, enfrentamiento, combate, desafío, duelo.Ejemplo: Los dos boxeadores se prepararon para el importante lance que tendrían esa noche.Como verbo, \"lance\" se refiere a la acción de arrojar o lanzar algo con fuerza.Sinónimos: Lanzar, arrojar, tirar.Ejemplo: El cazador lanzó su lanza con precisión durante el lance de caza.También se puede utilizar el término \"lance\" en el sentido de oportunidad o ocasión favorable.Sinónimos: Oportunidad, ocasión, momento propicio.Ejemplo: El músico aprovechó el lance para tocar una canción muy esperada por el público."
+  },
+  {
+    "role": "Prompt",
+    "say": "Indefectiblemente "
+  },
+  {
+    "role": "Response",
+    "say": "\"Indefectiblemente\" es un adverbio que se utiliza para indicar que algo o alguien sucede de manera inevitable, segura o invariable. Resalta la certeza o seguridad de que algo o alguien cumplirá una acción o llegará a un resultado determinado.Sinónimos: Inevitablemente, seguramente, sin falta, necesariamente.Ejemplo: Si sigues practicando todos los días, indefectiblemente mejorarás en tu habilidad musical.Etimología: \"Indefectiblemente\" proviene del latín \"in\" (no) y \"defectus\" (defecto), y se ha mantenido en español con un sentido similar, indicando algo que no puede fallar o que es seguro."
+  },
+  {
+    "role": "Prompt",
+    "say": "Interjección"
+  },
+  {
+    "role": "Response",
+    "say": "Una interjección es una palabra o expresión breve que se utiliza para expresar emociones, sentimientos o reacciones repentinas. Las interjecciones no tienen una función gramatical específica en la estructura de la oración, pero se utilizan para transmitir una actitud, emoción o llamado de atención.Ejemplo: ¡Ay!, ¡ah!, ¡uff!, ¡vaya!, ¡oh!, ¡bravo!, ¡eh!, ¡guau!Las interjecciones pueden variar en significado y tono dependiendo del contexto y la entonación con la que se expresan. A menudo se utilizan para expresar sorpresa, alegría, tristeza, asombro, entre otros sentimientos."
+  },
+  {
+    "role": "Prompt",
+    "say": "Frugal"
+  },
+  {
+    "role": "Response",
+    "say": "\"Frugal\" es un adjetivo que se utiliza para describir a alguien o algo que es sencillo, austero o que se contenta con lo básico en términos de comida, estilo de vida o gastos. Una persona frugal es aquella que no tiene excesos ni derroches, sino que busca la moderación y la simplicidad en sus elecciones y hábitos.Sinónimos: Sobrio, austero, moderado, sencillo, económico.Ejemplo: Mi abuela llevaba una vida frugal, comiendo comidas simples y evitando gastos innecesarios.Etimología: \"Frugal\" proviene del latín \"frugalis\", que significa \"económico\" o \"prudente\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Polímata"
+  },
+  {
+    "role": "Response",
+    "say": "\"Polímata\" es un sustantivo que se utiliza para describir a una persona que posee un vasto conocimiento en diferentes áreas del saber. Un polímata es alguien que ha adquirido un amplio dominio y comprensión en diversas disciplinas, abarcando campos como la ciencia, el arte, la filosofía, la historia, entre otros.Sinónimos: Erudito, sabio, erudito universal, hombre/mujer renacentista.Ejemplo: Leonardo da Vinci es considerado un polímata, ya que destacó en áreas tan diversas como la pintura, la anatomía, la ingeniería y la escritura.Etimología: \"Polímata\" proviene del griego \"polymathēs\", que significa \"que sabe mucho\" o \"que ha aprendido mucho\". Está compuesto por \"poly\" (mucho) y \"mathēs\" (aprendizaje o conocimiento)."
+  },
+  {
+    "role": "Prompt",
+    "say": "Cimbrear"
+  },
+  {
+    "role": "Response",
+    "say": "\"Cimbrear\" es un verbo que se refiere al movimiento o balanceo de algo, generalmente de manera rítmica o vibrante. Este término se utiliza especialmente para describir el movimiento de las ramas de un árbol, los pendientes de un objeto colgante o cualquier otro elemento que se balancee de un lado a otro.Sinónimos: Balancear, oscilar, menear, sacudir.Ejemplo: El viento fuerte hacía cimbrear las ramas de los árboles con elegancia.Etimología: \"Cimbrear\" deriva del latín \"cimbrare\", que a su vez proviene del sustantivo \"cimba\", que significa \"cuna\" o \"cama de viaje\". En su origen, el verbo se relacionaba con el movimiento rítmico y suave de una cuna o cama colgante."
+  },
+  {
+    "role": "Prompt",
+    "say": "Potranca"
+  },
+  {
+    "role": "Response",
+    "say": "\"Potranca\" es un sustantivo femenino que se utiliza para referirse a una cría de caballo hembra, generalmente de menos de un año de edad. Es el equivalente femenino de \"potro\". A medida que la potranca crece y se desarrolla, se convertirá en una yegua adulta.Sinónimos: Potrilla, potra, yegua joven.Ejemplo: El granjero estaba encantado con la llegada de la nueva potranca a la granja.Etimología: \"Potranca\" se deriva del término \"potro\" y se le agrega el sufijo \"anca\" para indicar su género femenino. El término \"potro\" proviene del latín \"pullus\", que significa \"polluelo\" o \"cría de animal\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Melancolía "
+  },
+  {
+    "role": "Response",
+    "say": "\"Melancolía\" es un sustantivo que se utiliza para describir un estado de ánimo caracterizado por la tristeza, la nostalgia y la sensación de pérdida. Es una emoción profunda y melancólica que puede estar asociada a la reflexión, la añoranza o la melancolía por algo o alguien ausente.Sinónimos: Tristeza, nostalgia, pena, pesar, abatimiento.Ejemplo: En las tardes lluviosas de otoño, siento una melancolía que me invade y me hace recordar tiempos pasados.Etimología: \"Melancolía\" proviene del griego \"melankholía\", que combina \"melas\" (negro) y \"kholē\" (bilis), haciendo referencia a la creencia antigua de que el exceso de bilis negra en el cuerpo causaba tristeza y melancolía."
+  },
+  {
+    "role": "Prompt",
+    "say": "Moviola"
+  },
+  {
+    "role": "Response",
+    "say": "\"Moviola\" es un sustantivo que se utiliza para referirse a una máquina de edición de películas que se utilizaba en el pasado. La moviola consiste en una plataforma que permite reproducir y revisar películas en forma de rollos o cintas, permitiendo a los editores y cineastas visualizar y manipular el material filmado.Sinónimos: Editor de películas, máquina de edición.Ejemplo: El director de cine revisaba meticulosamente cada toma en la moviola para asegurarse de que la película estuviera perfectamente editada.Etimología: El término \"moviola\" fue creado por el inventor Iwan Serrurier en la década de 1920 al combinar las palabras \"motion\" (movimiento) y \"viola\" (una variante del término violín)."
+  },
+  {
+    "role": "Prompt",
+    "say": "Marquetería "
+  },
+  {
+    "role": "Response",
+    "say": "\"Marquetería\" es un sustantivo que se refiere a la técnica de trabajar la madera para crear diseños decorativos utilizando piezas de diferentes tipos y colores de madera. En la marquetería, se cortan y ensamblan finas láminas de madera en formas y patrones específicos para crear diseños detallados y artísticos.Sinónimos: Intarsia, embutido de madera.Ejemplo: El artesano utilizó la marquetería para crear un hermoso diseño de flores en la superficie de la mesa de madera.Etimología: \"Marquetería\" proviene del francés \"marqueterie\", que a su vez deriva del verbo \"marqueter\", que significa \"incrustar\". El término se originó en el ámbito de la decoración de muebles en el siglo XVII."
+  },
+  {
+    "role": "Prompt",
+    "say": "Falleba"
+  },
+  {
+    "role": "Response",
+    "say": "\"Falleba\" es un sustantivo que se utiliza para referirse a un tipo de cerradura o pestillo que se coloca en las puertas o ventanas para asegurar su cierre. Consiste en una barra o palanca que se desliza o gira para bloquear o desbloquear el acceso.Sinónimos: Cerrojo, pestillo, pasador.Ejemplo: Antiguamente, las puertas de madera solían contar con fallebas para brindar mayor seguridad a las viviendas.Etimología: El origen de la palabra \"falleba\" no es claro, pero se cree que proviene del latín \"fallere\" que significa \"fallar\" o \"engañar\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ineluctabilidad"
+  },
+  {
+    "role": "Response",
+    "say": "\"Ineluctabilidad\" es un sustantivo que se refiere a la cualidad de ser ineludible o inevitable, es decir, algo que no se puede evitar o escapar.Sinónimos: Inevitabilidad, inexorabilidad, imposibilidad de eludir.Ejemplo: El paso del tiempo y el envejecimiento son aspectos de la vida que se enfrentan con ineluctabilidad.Etimología: \"Ineluctabilidad\" proviene del latín \"ineluctabilis\", que se compone de \"in-\" (negación) y \"eluctabilis\" (que se puede eludir)."
+  },
+  {
+    "role": "Prompt",
+    "say": "Riela"
+  },
+  {
+    "role": "Response",
+    "say": "\"Riela\" es un sustantivo que se utiliza para referirse a una franja o tira de tela, generalmente estrecha y decorativa, que se coloca en la parte inferior de una prenda de vestir, como un vestido, una falda o una cortina.Sinónimos: Borde, ribete, cinta.Ejemplo: El vestido tenía una hermosa riela en el borde que le daba un toque elegante.Etimología: La etimología precisa de \"riela\" no está claramente establecida, pero podría tener su origen en el francés antiguo \"riele\", que significa \"ribete\" o \"borde\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Retal"
+  },
+  {
+    "role": "Response",
+    "say": "\"Retal\" es un sustantivo que se utiliza para referirse a un trozo o pedazo pequeño de algo, generalmente de tela o material textil. También puede hacer referencia a un fragmento o resto que queda después de cortar o desgarrar algo más grande.Sinónimos: Trozo, pedazo, fragmento, resto.Ejemplo: Utilicé los retales de tela para hacer un parche en mi pantalón roto.Etimología: La palabra \"retal\" proviene del francés antiguo \"retal\", que significa \"cortado\" o \"recortado\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Pontífice "
+  },
+  {
+    "role": "Response",
+    "say": "\"Pontífice\" es un sustantivo que se utiliza para referirse a una persona que tiene autoridad o es líder en una religión o sistema de creencias. En particular, se utiliza para hacer referencia al líder supremo de la Iglesia Católica, el Papa. El término también puede referirse a otros líderes religiosos en diferentes contextos.Sinónimos: Sumo pontífice, líder religioso, jerarca religioso.Ejemplo: El pontífice es el máximo representante de la Iglesia Católica y desempeña un papel crucial en la toma de decisiones y la orientación espiritual de los fieles.Etimología: \"Pontífice\" proviene del latín \"pontifex\", que significa \"constructor de puentes\". En la antigua Roma, los pontífices eran miembros de un cuerpo sacerdotal responsable de realizar ceremonias religiosas y supervisar los rituales relacionados con los puentes. Con el tiempo, el término adquirió un sentido más amplio y se asoció con los líderes religiosos en general."
+  },
+  {
+    "role": "Prompt",
+    "say": "Pedáneo"
+  },
+  {
+    "role": "Response",
+    "say": "\"Pedáneo\" es un sustantivo que se utiliza para referirse al representante o líder de una pedanía, que es una subdivisión administrativa o territorial de un municipio. El pedáneo es una figura local que representa los intereses de la comunidad y actúa como intermediario entre los residentes y las autoridades municipales.Sinónimos: Alcalde pedáneo, representante de la pedanía, líder comunitario.Ejemplo: El pedáneo de la pequeña pedanía se encarga de coordinar proyectos de mejora en la comunidad y de representar los intereses de los residentes ante el ayuntamiento.Etimología: \"Pedáneo\" deriva del latín \"pedaneus\", que se refiere a algo relacionado con el \"pedaneum\", que era una plataforma elevada utilizada por los antiguos romanos para pronunciar discursos o realizar anuncios públicos. Con el tiempo, el término \"pedáneo\" se asoció con la figura de un líder local que hablaba en nombre de una comunidad."
+  },
+  {
+    "role": "Prompt",
+    "say": "Líquenes"
+  },
+  {
+    "role": "Response",
+    "say": "\"Líquenes\" es un sustantivo que se utiliza para referirse a una forma de vida simbiótica formada por la asociación entre un hongo y un alga o una cianobacteria. Los líquenes son organismos que se encuentran comúnmente en ambientes terrestres, como rocas, árboles o suelos. La simbiosis entre el hongo y el alga o cianobacteria es beneficiosa para ambas partes, ya que el hongo proporciona un ambiente protegido y nutrientes, mientras que el alga o la cianobacteria realizan la fotosíntesis y producen nutrientes para el conjunto.Sinónimos: Organismos liquénicos, musgos simbióticos.Ejemplo: Los líquenes son conocidos por su capacidad para colonizar ambientes difíciles, como las rocas desnudas en las zonas montañosas.Etimología: \"Líquenes\" proviene del latín \"lichen\", que a su vez se deriva del griego \"leikhēn\", que significa \"hierba\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Encaramarse "
+  },
+  {
+    "role": "Response",
+    "say": "\"Encaramarse\" es un verbo que se utiliza para describir la acción de subir o trepar a un lugar alto o difícil de alcanzar, generalmente utilizando las manos y los pies. Implica ascender o situarse en una posición elevada o encima de algo.Sinónimos: Trepar, subir, escalar, ascender.Ejemplo: El gato se encaramó al árbol para alcanzar a los pájaros que estaban en las ramas superiores.Etimología: \"Encaramarse\" proviene del prefijo \"en-\" (sobre, en) y el verbo \"caramar\", que significa \"subir a un lugar alto\" en algunos dialectos del español."
+  },
+  {
+    "role": "Prompt",
+    "say": "Aldaba"
+  },
+  {
+    "role": "Response",
+    "say": "\"Aldaba\" es un sustantivo que se refiere a un objeto metálico, generalmente en forma de anilla o asa, que se coloca en las puertas para golpear o llamar cuando se desea entrar. La aldaba se utiliza tradicionalmente en lugar de un timbre o campanilla y se golpea contra la puerta para hacer ruido y anunciar la llegada de alguien.Sinónimos: Picaporte, llamador, golpeador.Ejemplo: El sonido de la aldaba resonó en toda la casa cuando el visitante golpeó la puerta.Etimología: El término \"aldaba\" proviene del árabe \"al-dabba\", que significa \"garfio\" o \"anilla\". La aldaba solía tener forma de gancho o garfio en sus primeras versiones, que se usaban para golpear la puerta. Con el tiempo, su forma evolucionó hasta convertirse en una anilla o asa."
+  },
+  {
+    "role": "Prompt",
+    "say": "Indolente"
+  },
+  {
+    "role": "Response",
+    "say": "\"Indolente\" es un adjetivo que se utiliza para describir a una persona que carece de interés, energía o motivación para realizar actividades o cumplir con sus responsabilidades. Una persona indolente puede mostrar una actitud de pereza, apatía o falta de iniciativa.Sinónimos: Perezoso, apático, desganado, negligente.Ejemplo: Juan es un estudiante indolente que no muestra ningún interés en sus estudios y evita hacer las tareas asignadas.Etimología: \"Indolente\" proviene del latín \"indolens\", que se compone de \"in-\" (negación) y \"dolens\" (dolor o sufrimiento). En su origen, el término se refería a la falta de capacidad para experimentar dolor físico, pero con el tiempo adquirió el sentido de falta de interés o apatía."
+  },
+  {
+    "role": "Prompt",
+    "say": "Albor"
+  },
+  {
+    "role": "Response",
+    "say": "\"Albor\" es un sustantivo que se utiliza para referirse al momento del amanecer o al inicio del día, cuando el cielo comienza a iluminarse con la luz del sol que se levanta en el horizonte. También puede hacer referencia a la claridad o luminosidad que aparece en el cielo al amanecer.Sinónimos: Amanecer, alba, aurora, madrugada.Ejemplo: Salieron a correr al albor para disfrutar de la frescura y tranquilidad del comienzo del día.Etimología: \"Albor\" proviene del latín \"albōrem\", que es la forma acusativa de \"albor\", que significa \"blancura\" o \"claridad\". El término se relaciona con el color blanco y la luminosidad del amanecer."
+  },
+  {
+    "role": "Prompt",
+    "say": "Plomizo"
+  },
+  {
+    "role": "Response",
+    "say": "\"Plomizo\" es un adjetivo que se utiliza para describir algo que tiene un tono o color similar al del plomo, es decir, un tono grisáceo o gris plomizo. Se utiliza para referirse a algo que carece de brillo o viveza, y que transmite una sensación de pesadez o tristeza.Sinónimos: Grisáceo, plomado, opaco, melancólico.Ejemplo: El cielo estaba cubierto de nubes plomizas que presagiaban una lluvia inminente.Etimología: \"Plomizo\" deriva del sustantivo \"plomo\", que hace referencia al metal pesado de color gris. La terminación \"-izo\" se utiliza para indicar una cualidad o característica relacionada con el sustantivo."
+  },
+  {
+    "role": "Prompt",
+    "say": "Loable"
+  },
+  {
+    "role": "Response",
+    "say": "\"Loable\" es un adjetivo que se utiliza para describir algo o alguien que merece elogio, reconocimiento o admiración debido a sus acciones, comportamiento o cualidades positivas. Se refiere a algo que es digno de ser alabado o aplaudido.Sinónimos: Admirable, encomiable, meritorio, elogiable.Ejemplo: Su dedicación y esfuerzo en ayudar a los más necesitados es una actitud loable que merece reconocimiento.Etimología: \"Loable\" proviene del latín \"laudabilis\", que deriva del verbo \"laudare\", que significa \"alabar\" o \"elogiar\". El sufijo \"-able\" se utiliza para formar adjetivos a partir de verbos y se refiere a la capacidad o cualidad de ser objeto de una acción."
+  },
+  {
+    "role": "Prompt",
+    "say": "Condonar"
+  },
+  {
+    "role": "Response",
+    "say": "\"Condonar\" es un verbo que se utiliza para referirse al acto de perdonar o eximir a alguien de una deuda, una obligación o una falta. Significa renunciar al cobro o al castigo correspondiente a algo que se debe.Sinónimos: Perdonar, eximir, absolver, dispensar.Ejemplo: El banco decidió condonar parte de la deuda del cliente debido a su difícil situación financiera.Etimología: \"Condonar\" proviene del latín \"condonare\", que se compone de \"con-\" (junto, completamente) y \"donare\" (dar, otorgar). Literalmente, implica dar algo completamente, en este caso, el perdón o la exención de una deuda u obligación."
+  },
+  {
+    "role": "Prompt",
+    "say": "Flemático"
+  },
+  {
+    "role": "Response",
+    "say": "\"Flemático\" es un adjetivo que se utiliza para describir a una persona que muestra calma, serenidad y un comportamiento imperturbable ante situaciones estresantes o emocionalmente intensas. Se refiere a alguien que tiene una disposición tranquila y pausada en su forma de ser.Sinónimos: Sereno, impasible, imperturbable, tranquilo.Ejemplo: Aunque todos estaban preocupados por la situación, él se mantuvo flemático y no dejó que el estrés afectara su enfoque.Etimología: \"Flemático\" proviene del latín \"phlegmaticus\", que a su vez deriva del griego \"phlegmatikos\", relacionado con el humor corporal llamado \"flema\" en la medicina antigua. Se creía que la flema era uno de los cuatro humores del cuerpo, y una persona flemática se consideraba que tenía un predominio de este humor, lo que se asociaba con una personalidad tranquila y equilibrada."
+  },
+  {
+    "role": "Prompt",
+    "say": "Silíce"
+  },
+  {
+    "role": "Response",
+    "say": "\"Silíce\" es un sustantivo que se utiliza para referirse a una sustancia compuesta principalmente por dióxido de silicio (SiO2), que es un compuesto químico presente en la arena, la sílice cristalina y muchas rocas. La sílice se encuentra en diversas formas, como el cuarzo, el ágata y el ópalo, y se utiliza en múltiples aplicaciones industriales, como la fabricación de vidrio, la producción de cerámica y la industria de la construcción.Sinónimos: Dióxido de silicio, sílice cristalina.Ejemplo: La sílice se utiliza en la fabricación de paneles solares debido a su alta conductividad y resistencia al calor.Etimología: \"Silíce\" proviene del latín \"silex\", que significa \"piedra\" o \"pedernal\". El término se utiliza para referirse a la sustancia compuesta principalmente por dióxido de silicio debido a su alta presencia en muchas rocas y minerales."
+  },
+  {
+    "role": "Prompt",
+    "say": "Locuaz"
+  },
+  {
+    "role": "Response",
+    "say": "\"Locuaz\" es un adjetivo que se utiliza para describir a una persona que habla mucho o de manera excesiva. Se refiere a alguien que es elocuente, expresivo y que tiende a ser verborrágico en su forma de comunicarse.Sinónimos: Hablador, charlatán, parlanchín, loquaz.Ejemplo: Marta es una persona locuaz que siempre tiene algo que decir en cualquier conversación.Etimología: \"Locuaz\" proviene del latín \"loquax\", que se deriva del verbo \"loqui\", que significa \"hablar\". El sufijo \"-az\" se utiliza para formar adjetivos a partir de verbos y se refiere a la cualidad o característica de realizar la acción del verbo."
+  },
+  {
+    "role": "Prompt",
+    "say": "Fondeadero"
+  },
+  {
+    "role": "Response",
+    "say": "\"Fondeadero\" es un sustantivo que se utiliza para referirse a un lugar seguro y adecuado donde las embarcaciones pueden fondear o anclar. Es un área protegida de aguas profundas y suficiente espacio para que los barcos puedan permanecer estacionados sin peligro.Sinónimos: Puerto de fondeo, área de anclaje, bahía de fondeo.Ejemplo: Los navegantes buscaron un fondeadero protegido para pasar la noche y resguardar su embarcación de los fuertes vientos.Etimología: \"Fondeadero\" proviene del verbo \"fondear\", que significa \"anclar\" o \"sujetar un barco en un lugar determinado\". El sufijo \"-dero\" se utiliza para formar sustantivos que indican el lugar donde ocurre la acción del verbo."
+  },
+  {
+    "role": "Prompt",
+    "say": "Arrapiezo "
+  },
+  {
+    "role": "Response",
+    "say": "\"Arrapiezo\" es un sustantivo que se utiliza para referirse a un joven que trabaja como aprendiz o ayudante en diferentes oficios o labores, generalmente en el ámbito rural. El término también puede hacer referencia a un niño o joven que realiza tareas domésticas o trabajos sencillos en el hogar.Sinónimos: Aprendiz, ayudante, mozo, joven trabajador.Ejemplo: El arrapiezo aprendió el oficio de carpintería trabajando junto a su padre en el taller.Etimología: \"Arrapiezo\" es una palabra de origen español. La etimología exacta no está claramente establecida, pero se cree que puede derivar del término \"rapaz\", que se refiere a un joven o adolescente. La adición del prefijo \"a-\" podría indicar una intensificación o especificidad, por lo que \"arrapiezo\" podría hacer referencia a un joven muy joven o a un aprendiz en el ámbito laboral."
+  },
+  {
+    "role": "Prompt",
+    "say": "Zamarreado "
+  },
+  {
+    "role": "Response",
+    "say": "\"Zamarreado\" es un adjetivo que se utiliza para describir a algo o alguien que ha sido sacudido o agitado violentamente. Implica movimientos bruscos o temblorosos.Sinónimos: Sacudido, agitado, zarandeado, tambaleante.Ejemplo: Después del fuerte terremoto, los edificios quedaron zamarreados y muchos objetos cayeron al suelo.Etimología: \"Zamarreado\" deriva del verbo \"zamarrear\", que se compone de \"zamarra\" (una prenda de vestir) y el sufijo \"-ear\", que indica la acción de realizar o experimentar la acción del verbo. \"Zamarrear\" se refiere a la acción de sacudir o agitar con fuerza algo o a alguien, de manera similar a cómo se agita una prenda de vestir para quitar el polvo o la suciedad."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ominoso "
+  },
+  {
+    "role": "Response",
+    "say": "\"Ominoso\" es un adjetivo que se utiliza para describir algo o alguien que presagia o sugiere un mal o un evento desafortunado. Se refiere a algo que es inquietante, amenazante o que inspira un sentimiento de peligro o temor.Sinónimos: Amenazador, siniestro, inquietante, temible.Ejemplo: El cielo oscuro y las nubes negras eran un presagio ominoso de la tormenta que se avecinaba.Etimología: \"Ominoso\" proviene del latín \"ominosus\", que deriva de \"omen\" (presagio). Se relaciona con la creencia en la interpretación de señales o augurios como indicadores de eventos futuros. El sufijo \"-oso\" se utiliza para formar adjetivos a partir de sustantivos y se refiere a la cualidad o característica de poseer el sustantivo al que está asociado."
   }
 ]

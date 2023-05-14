@@ -17,6 +17,7 @@ export default function Auth() {
     const { error } = await supabase.auth.signInWithOtp({ email });
 
     if (error) {
+      console.log(error);
       alert(error.error_description || error.message);
     } else {
       alert("¡Revisa tu correo electrónico para el enlace de inicio de sesión!");
