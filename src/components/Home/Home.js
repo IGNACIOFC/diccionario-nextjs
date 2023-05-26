@@ -15,7 +15,6 @@ export default function Home() {
   const [isSorted, setIsSorted] = useState(false);
   const [category, setCategory] = useState(0);
 
-  console.log(dataFormat)
   const handleModal = () => {
     setShowModal(!showModal);
   };

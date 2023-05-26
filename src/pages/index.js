@@ -1,7 +1,6 @@
 import { Inter } from '@next/font/google'
 import { useState, useEffect } from 'react'
 import { supabase } from '@/utils/supabaseClient'
-import Auth from '@/components/Auth'
 import Home from '@/components/Home'
 
 const inter = Inter({ subsets: ['latin'] })
