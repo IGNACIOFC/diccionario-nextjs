@@ -2498,5 +2498,391 @@
     "role": "Response",
     "say": "Explicación: \"Desgajarse\" es un verbo que significa separarse de un todo, desprenderse o apartarse. Este término se usa a menudo en el contexto de la naturaleza, como cuando una rama se desgaja de un árbol. En un sentido más figurado, puede usarse para describir una separación o división de un grupo o entidad más grande.Etimología: \"Desgajarse\" proviene del prefijo \"des-\" que significa \"apartar\" o \"eliminar\" y \"gaja\", que es una palabra que se usa en algunas regiones de España para referirse a una rama grande.Sinónimos: Algunos sinónimos de \"desgajarse\" podrían ser: separarse, desprenderse, desunirse, desanexarse, desvincularse.Frase de ejemplo: \"Durante la tormenta, varias ramas se desgajaron del árbol debido a la fuerza del viento\"."
   }
+],
+"Historia del mundo contada para escépticos": [
+  {
+    "role": "Prompt",
+    "say": "Azogue"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Azogue\" es una palabra que se utiliza principalmente en dos contextos. Por un lado, es el nombre que recibe el mercurio, un metal líquido, plateado y pesado, en la terminología química española. Por otro lado, en un contexto más coloquial, \"azogue\" se puede referir a una persona que es inquieta, nerviosa o que se mueve mucho.Etimología: La palabra \"azogue\" proviene del árabe \"azzawq\", que significa mercurio.Sinónimos:En el contexto químico, no hay muchos sinónimos para \"azogue\", ya que es el nombre específico del elemento. Sin embargo, se puede referir a él con su nombre en el sistema periódico, mercurio.En el contexto coloquial, sinónimos de \"azogue\" podrían incluir nerviosismo, inquietud, agitación, intranquilidad, excitación.Uso en una frase:En contexto químico: \"El azogue es un componente esencial en la fabricación de termómetros.\"En contexto coloquial: \"Su azogue era evidente, no podía estar sentado ni un minuto sin moverse.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Alfeñique"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Alfeñique\" es una palabra utilizada para describir un tipo de dulce o confite que se elabora principalmente con azúcar, agua y limón, que se moldea en diferentes formas. Tradicionalmente, en México, se usan los alfeñiques para hacer figuras de calaveras, animales y objetos varios para celebrar el Día de los Muertos.Etimología: El término \"alfeñique\" proviene del árabe hispánico \"alfánid\", y este del árabe clásico \"fánid\", que significa azúcar cande.Sinónimos: Aunque \"alfeñique\" es un término bastante específico y no tiene sinónimos exactos, palabras como confite, dulce, caramelo o golosina podrían usarse en ciertos contextos para describir un alfeñique.Uso en una frase: \"Durante el Día de los Muertos, muchos artesanos mexicanos venden alfeñiques en forma de calaveras, los cuales son muy populares para decorar los altares.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "\"Reparar\" en la acepción de pensar"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: En la acepción que mencionas, \"reparar\" se utiliza para referirse a la acción de observar algo detenidamente, notar, prestar atención o reflexionar sobre algo. Es un uso más coloquial y menos frecuente del término, que se utiliza a menudo en el sentido de arreglar o restaurar algo que está roto o dañado.Etimología: La palabra \"reparar\" proviene del latín \"reparare\", que significa \"preparar de nuevo\" o \"restaurar\". Sin embargo, este verbo también ha adquirido el significado de \"darse cuenta\" o \"prestar atención\" por extensión, como si \"arregláramos\" nuestra atención en algo.Sinónimos: Algunos sinónimos de \"reparar\" en este contexto podrían ser: percatarse, notar, observar, considerar, reflexionar, prestar atención.Uso en una frase: \"No reparó en la pequeña mancha de tinta en su camisa hasta que llegó a la reunión\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Retoño"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Retoño\" es un sustantivo que se refiere, en su sentido literal, a un brote, vástago o tallo nuevo que surge de una planta. De manera figurada, también se utiliza para referirse a un hijo o descendiente. Es una forma cariñosa de referirse a los hijos o a la nueva generación.Etimología: El término \"retoño\" proviene del verbo \"retoñar\" que a su vez se deriva del latín \"rationare\", que significa brotar o producir retoños.Sinónimos: Algunos sinónimos de \"retoño\" podrían ser: brote, vástago, descendiente, hijo, cría, pimpollo (en el caso de las plantas).Uso en una frase: \"El árbol de manzana comenzó a mostrar sus primeros retoños a principios de primavera\" o \"Luis llevó a su retoño al parque para disfrutar de la tarde soleada\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Necedad"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Necedad\" es un sustantivo que se refiere a la falta de juicio o de entendimiento, es decir, la ignorancia o la estupidez. También puede referirse a una acción o dicho tonto o sin sentido.Etimología: La palabra \"necedad\" proviene del latín \"necessitas\", que significa \"necesidad\", pero su uso y significado han evolucionado a lo largo del tiempo en español, donde \"necedad\" se ha llegado a usar para referirse a la tontería o la insensatez.Sinónimos: Algunos sinónimos de \"necedad\" podrían ser: estupidez, insensatez, tontería, ignorancia, imbecilidad, simpleza.Uso en una frase: \"La necedad de ignorar las advertencias del meteorólogo llevó a muchos a quedar atrapados en la tormenta.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Recochineo"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Recochineo\" es un sustantivo que se refiere a la acción de burlarse de alguien o algo de manera despectiva, sarcástica o mordaz. Implica una actitud de mofa y desprecio hacia algo o alguien.Etimología: La palabra \"recochineo\" proviene del verbo \"recochinear\", que a su vez es una forma intensiva del verbo \"cochinear\", que en algunas regiones se usa en el sentido de burlarse o mofarse. Esta palabra tiene un origen incierto, aunque se ha sugerido que podría tener un origen onomatopéyico, imitando el sonido de la risa burlona.Sinónimos: Algunos sinónimos de \"recochineo\" podrían ser: burla, mofa, escarnio, sarcasmo, desdén, ironía, risa burlona.Uso en una frase: \"No soportaba el recochineo constante de sus compañeros de clase, quienes siempre se burlaban de su acento extranjero.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Digresión"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Digresión\" es un sustantivo que se refiere a la acción de apartarse o desviarse del tema principal o del argumento central en una conversación, discurso o escrito. En otras palabras, es un cambio de tema o una desviación que no está directamente relacionada con el tema principal.Etimología: La palabra \"digresión\" proviene del latín \"digressio\" que a su vez se deriva de \"digredi\", que significa \"apartarse\".Sinónimos: Algunos sinónimos de \"digresión\" podrían ser: desviación, divagación, rodeo, excursión, aparte, desvío, desviación.Uso en una frase: \"Aunque la conferencia estaba destinada a discutir el cambio climático, el ponente hizo una larga digresión sobre su infancia en el campo.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "candela"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Candela\" es una palabra que tiene varios significados dependiendo del contexto en el que se utilice. En su sentido más común, se refiere a una llama o a una vela encendida. En física, \"candela\" es la unidad básica de intensidad luminosa en el Sistema Internacional de Unidades. En ciertos contextos coloquiales en algunos países hispanohablantes, \"candela\" puede usarse para referirse a una situación problemática o a una persona atractiva o intensa.Etimología: \"Candela\" proviene del latín \"candēla\", que a su vez se deriva de \"candēre\", que significa \"brillar\".Sinónimos: Algunos sinónimos de \"candela\" en sus distintos contextos podrían ser: llama, luz, vela (en el sentido de fuego o iluminación); problema, lío, dificultad (en el sentido coloquial de una situación problemática); atractivo, encanto, belleza (en el sentido coloquial de una persona atractiva).Uso en una frase:En su sentido más común: \"La única luz en la habitación venía de una pequeña candela encendida sobre la mesa.\"En el sentido de unidad de medida: \"La candela es la unidad de medida de la intensidad luminosa en el Sistema Internacional.\"En el sentido coloquial: \"Desde que perdió su trabajo, Juan ha estado en la candela.\" o \"Esa chica es pura candela, nunca deja de sorprenderme.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Azagaya"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Azagaya\" es un sustantivo que se refiere a una especie de lanza o jabalina que se usaba tradicionalmente para la caza o la guerra. Las azagayas solían ser más cortas y ligeras que las lanzas convencionales y a menudo se lanzaban con la ayuda de un propulsor para aumentar la velocidad y la distancia.Etimología: La palabra \"azagaya\" proviene del árabe hispánico \"azzaġáya\", y este del árabe clásico \"zaġāyah\".Sinónimos: Algunos sinónimos de \"azagaya\" podrían ser: lanza, jabalina, dardo, venablo, arpón.Uso en una frase: \"Los antiguos cazadores usaban la azagaya para cazar presas a distancia.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Tocológico"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Tocológico\" es un adjetivo que está relacionado con la tocología, que es la parte de la medicina que se ocupa de la asistencia al parto. También se relaciona con el estudio y conocimientos sobre el parto en sí mismo. Un médico especializado en esta área es un tocólogo.Etimología: \"Tocológico\" proviene del griego \"tókos\" que significa \"parto\", y \"logía\" que significa \"estudio\".Sinónimos: No existen sinónimos exactos para \"tocológico\" ya que es un término muy específico en medicina. Sin embargo, términos relacionados pueden ser obstétrico, partero, matrón o relacionado con el parto.Uso en una frase: \"El médico tocológico se encargó de monitorear el proceso del parto para asegurarse de que todo saliera bien.\""
+  },
+  {
+    "role": "Prompt",
+    "say": "Enjuto"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Enjuto\" es un adjetivo que se usa para describir a una persona, animal o cosa que es delgada o flaca, generalmente debido a la falta de grasa o humedad. Es una palabra que suele usarse para describir a alguien que es magro o escuálido, o a algo que es seco o desprovisto de humedad.Etimología: \"Enjuto\" proviene del latín \"exsuctus\", que significa \"secado\" o \"exprimido\".Sinónimos: Algunos sinónimos de \"enjuto\" podrían ser: delgado, flaco, escuálido, seco, deshidratado.Uso en una frase: \"El anciano tenía el rostro enjuto y arrugado, marcado por los años y las experiencias de una vida dura\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Escaramuza"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Escaramuza\" es un sustantivo que se utiliza para describir un enfrentamiento o combate breve y de poca importancia, generalmente entre pequeños grupos de personas. En un contexto militar, se refiere a un encuentro menor o a una refriega que se produce como parte de un conflicto mayor. En un sentido más amplio, también puede referirse a un intercambio verbal agudo o a un pequeño conflicto o disputa.Etimología: La palabra \"escaramuza\" proviene del italiano \"scaramuccia\", que significa \"pelea\" o \"enfrentamiento\".Sinónimos: Algunos sinónimos de \"escaramuza\" podrían ser: enfrentamiento, combate, refriega, contienda, pelea, disputa, altercado.Uso en una frase: \"A pesar de la escaramuza en la reunión de la junta, se llegó a un acuerdo y se aprobó el plan propuesto\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Simiente"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Simiente\" es un sustantivo que se utiliza para referirse a la semilla o el grano que se planta para cultivar una planta. También puede usarse de manera figurada para referirse a la fuente o el origen de algo, así como a la descendencia o progenie.Etimología: La palabra \"simiente\" proviene del latín \"sementis\", que significa \"semilla\".Sinónimos: Algunos sinónimos de \"simiente\" podrían ser: semilla, grano, germen, origen, descendencia, progenie.Uso en una frase: \"El agricultor esparció la simiente en el campo con la esperanza de una buena cosecha en el otoño\". O en un sentido más figurado: \"Esa idea fue la simiente de lo que más tarde se convirtió en una exitosa empresa\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desman"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Desman\" es un sustantivo que se utiliza para referirse a ciertos mamíferos pequeños, parecidos a ratones, que pertenecen a la familia Talpidae, la misma familia a la que pertenecen los topos. Existen dos especies conocidas: el desmán de los Pirineos y el desmán ruso. Son animales acuáticos y se caracterizan por tener un hocico largo y flexible y patas traseras palmeadas para nadar.Etimología: La palabra \"desman\" proviene del antiguo francés \"desman\", que significa \"rata de agua\".Sinónimos: No hay sinónimos exactos para \"desman\" ya que es un término específico de zoología.Uso en una frase: \"El desmán de los Pirineos es un pequeño mamífero acuático que está en peligro de extinción\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "facineroso"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Facineroso\" es un adjetivo o sustantivo que se utiliza para referirse a una persona que comete delitos o actos ilegales, particularmente si son violentos o criminales. Es un término despectivo que denota a alguien peligroso, criminal o fuera de la ley.Etimología: La palabra \"facineroso\" proviene del latín \"faccinorosus\", que significa \"hacedor de maldades\".Sinónimos: Algunos sinónimos de \"facineroso\" podrían ser: delincuente, malhechor, criminal, maleante, forajido, bandido.Uso en una frase: \"El pueblo vivía con miedo debido a un grupo de facinerosos que robaban y causaban disturbios en las calles\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Detentar"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Detentar\" es un verbo que significa poseer o mantener algo, particularmente un cargo, una posición o un poder. En general, este verbo se utiliza en un contexto formal y a menudo en relación con el poder político o institucional.Etimología: \"Detentar\" proviene del latín \"detentare\", que significa \"retener\".Sinónimos: Algunos sinónimos de \"detentar\" podrían ser: poseer, mantener, ostentar, ejercer, tener, controlar.Uso en una frase: \"Después de ganar las elecciones, el partido político comenzó a detentar el poder en el gobierno del país\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ecléctico"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Ecléctico\" es un adjetivo que se utiliza para describir a alguien o algo que incorpora elementos de diversos estilos, ideas, métodos o influencias. En otras palabras, es algo que no se limita a una sola fuente o estilo, sino que combina diferentes elementos de varias fuentes.Etimología: \"Ecléctico\" proviene del griego \"eklektikós\", que significa \"escoger\", ya que el enfoque ecléctico implica seleccionar lo mejor o lo que se considera más útil de diversas fuentes o estilos.Sinónimos: Algunos sinónimos de \"ecléctico\" podrían ser: variado, diverso, mixto, heterogéneo, amalgamado, combinado.Uso en una frase: \"El artista es conocido por su estilo ecléctico, que combina influencias del impresionismo, el surrealismo y el cubismo\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Refulgir"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Refulgir\" es un verbo que significa brillar intensamente, resplandecer o emitir una luz radiante. También puede usarse de manera figurada para describir algo que destaca o sobresale de manera notable o impresionante.Etimología: \"Refulgir\" proviene del latín \"refulgēre\", que significa \"resplandecer\" o \"brillar\".Sinónimos: Algunos sinónimos de \"refulgir\" podrían ser: brillar, resplandecer, lucir, fulgurar, relucir, destellar.Uso en una frase: \"El sol comenzó a refulgir en el horizonte, anunciando el comienzo de un nuevo día\". O en un sentido más figurado: \"Su talento refulgía en el escenario, captando la atención de todos en el público\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Jalonado"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Jalonado\" es el participio del verbo \"jalonar\" que significa señalar o marcar un recorrido o una dirección con jalones, que son marcas o hitos. En un sentido más figurado, se usa para referirse a algo que está marcado o caracterizado por ciertos eventos o logros significativos.Etimología: La palabra \"jalonar\" proviene del francés \"jalon\", que significa hito o marca.Sinónimos: Algunos sinónimos de \"jalonado\" podrían ser: marcado, caracterizado, señalado, definido, delimitado.Uso en una frase: \"Su carrera ha estado jalonada de éxitos y reconocimientos, lo que demuestra su talento y dedicación a su trabajo\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Congratular"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Congratular\" es un verbo que significa expresar satisfacción o alegría por el bien ajeno, generalmente por algún éxito, logro o acontecimiento favorable. Se usa comúnmente cuando alguien desea felicitar a otra persona por un logro o evento significativo.Etimología: \"Congratular\" proviene del latín \"congratulari\", que significa \"expresar alegría\" o \"felicitar\".Sinónimos: Algunos sinónimos de \"congratular\" podrían ser: felicitar, alegrarse, celebrar, complacerse, regocijarse.Uso en una frase: \"Me gustaría congratular a todos los graduados por su arduo trabajo y dedicación que los ha llevado a este importante hito en sus vidas\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Claudicar"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Claudicar\" es un verbo que puede tener varios significados. Uno de ellos es referirse a la acción de cojear o caminar con dificultad debido a una lesión o afección en una pierna o pie. Sin embargo, en un sentido más figurado, \"claudicar\" se usa a menudo para describir el acto de rendirse, ceder o abandonar una lucha, una creencia o un objetivo.Etimología: \"Claudicar\" proviene del latín \"claudicāre\", que significa \"cojear\".Sinónimos: Algunos sinónimos de \"claudicar\" en el sentido de rendirse podrían ser: ceder, desistir, rendirse, abandonar, capitular.Uso en una frase: \"A pesar de los muchos desafíos que enfrentó, ella se negó a claudicar y continuó luchando por sus sueños\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Proselitismo"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Proselitismo\" es un sustantivo que se utiliza para describir el acto de intentar convertir a alguien a una religión, un partido político, una causa o una ideología. Es una práctica comúnmente asociada con la promoción activa y entusiasta de una creencia o causa, y a menudo implica intentar persuadir a otros para que se unan o adopten la misma creencia o causa.Etimología: \"Proselitismo\" proviene del griego \"prosēlutos\" que significa \"recién llegado\" o \"convertido\".Sinónimos: Algunos sinónimos de \"proselitismo\" podrían ser: evangelización, propaganda, difusión, promoción.Uso en una frase: \"El grupo político ha sido acusado de hacer proselitismo, utilizando tácticas agresivas para intentar ganar seguidores\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Iletancia"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Iletancia\" es un término usado para describir la falta de capacidad para leer y escribir, es decir, el analfabetismo. Se refiere a la condición de una persona que, por diferentes razones, no ha adquirido la habilidad de leer y escribir de manera eficiente o en absoluto.Etimología: \"Iletancia\" proviene del latín \"illiteratus\", que significa \"sin letras\" o \"analfabeto\".Sinónimos: Algunos sinónimos de \"iletancia\" podrían ser: analfabetismo, ignorancia, incultura.Uso en una frase: \"Los programas de educación para adultos están diseñados para combatir la iletancia y proporcionar habilidades de lectura y escritura a aquellos que no tuvieron la oportunidad de adquirirlas en su juventud\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Gentrificar"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Gentrificar\" es un verbo que describe el proceso de gentrificación. La gentrificación es un fenómeno urbano en el que la revalorización de un barrio conlleva un cambio en su composición social y económica. Normalmente, este proceso implica la llegada de residentes de clase media o alta a barrios anteriormente de clase baja, lo que puede provocar un aumento en el costo de vida y desplazar a los residentes originales.Etimología: \"Gentrificar\" proviene de \"gentry\", una palabra en inglés que hace referencia a la clase social alta o adinerada, y del sufijo \"-ficar\" que indica \"hacer\".Sinónimos: Algunos sinónimos de \"gentrificar\" podrían ser: aburguesar, elitizar, revalorizar.Uso en una frase: \"La renovación del casco antiguo de la ciudad ha comenzado a gentrificar el área, atrayendo a residentes más adinerados y aumentando los precios de las viviendas\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Miríada "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Miríada\" es un sustantivo que se utiliza para describir una cantidad extremadamente grande, incalculable o innumerable de algo. Aunque en su origen se refería específicamente a la cifra de diez mil, en el uso común actual, \"miríada\" se emplea de manera más general para indicar una gran cantidad de algo.Etimología: \"Miríada\" proviene del griego \"myriás\", que significa \"diez mil\".Sinónimos: Algunos sinónimos de \"miríada\" podrían ser: multitud, incontables, legión, infinidad, cúmulo, muchedumbre.Uso en una frase: \"La biblioteca contaba con una miríada de libros, abarcando una variedad de géneros y temas que podría satisfacer a cualquier lector\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Engrudo"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Engrudo\" es un sustantivo que se utiliza para referirse a una mezcla espesa y pegajosa que se hace generalmente con agua y harina, almidón u otras sustancias similares. Esta mezcla se usa a menudo como un pegamento casero, especialmente en manualidades y en la elaboración de papel maché.Etimología: \"Engrudo\" proviene del latín \"ingrŭtum\", que significa \"sopa espesa\".Sinónimos: Algunos sinónimos de \"engrudo\" podrían ser: pegamento, cola, goma, adhesivo.Uso en una frase: \"Para hacer el papel maché, primero necesitamos preparar un engrudo mezclando igual cantidad de agua y harina\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Hipogeos "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Hipogeos\" es un término que se usa en arquitectura y arqueología para describir las construcciones subterráneas o partes de ellas. Este término es comúnmente usado para describir tumbas o cámaras funerarias que se encuentran bajo tierra, como las encontradas en las culturas del antiguo Egipto y Roma.Etimología: \"Hipogeos\" proviene del griego \"hypo-\", que significa \"debajo\" o \"subterráneo\", y \"geos\", que significa \"tierra\".Sinónimos: Algunos sinónimos de \"hipogeos\" podrían ser: subterráneo, soterrado, bajo tierra.Uso en una frase: \"En el antiguo Egipto, los hipogeos eran usados como tumbas para los faraones y otros dignatarios importantes\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Hipóstila "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Hipóstila\" es un término que se utiliza en arquitectura para describir una sala o espacio que es sostenido por columnas. En la arquitectura clásica, un salón hipóstilo es una gran sala con techo sostenido por varias columnas, como se ve en algunos diseños egipcios y griegos antiguos.Etimología: \"Hipóstila\" proviene del griego \"hypóstȳlos\", que significa \"con columnas\".Sinónimos: Algunos sinónimos de \"hipóstila\" podrían ser: columnata, pórtico, peristilo.Uso en una frase: \"El templo egipcio está dominado por un impresionante salón hipóstilo, cuyo techo es sostenido por docenas de columnas talladas\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ataviado"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Ataviado\" es el participio del verbo \"ataviar\" que significa vestir, adornar o engalanar, especialmente con esmero o elegancia. Cuando se dice que alguien está ataviado con algo, significa que esa persona está vestida o decorada con eso.Etimología: \"Ataviar\" proviene del árabe hispánico \"aṭṭawía\", que significa \"preparar\" o \"adornar\".Sinónimos: Algunos sinónimos de \"ataviado\" podrían ser: vestido, adornado, engalanado, equipado, acicalado.Uso en una frase: \"El actor estaba ataviado con un traje de época para su papel en la película\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desdoro"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Desdoro\" es un sustantivo que se refiere a la pérdida de honor, prestigio o respeto. Se utiliza para describir una situación en la que alguien ha sido deshonrado o en la que se ha dañado su reputación.Etimología: \"Desdoro\" se deriva del prefijo \"des-\" que indica privación o negación y \"doro\" que proviene de \"decoro\", que significa honor, decoro o dignidad.Sinónimos: Algunos sinónimos de \"desdoro\" podrían ser: deshonra, desprestigio, infamia, descrédito, afrenta.Uso en una frase: \"El escándalo resultó en un desdoro para el político, cuya reputación fue seriamente dañada\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Pílonos"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Pílonos\" es una palabra en plural que se usa para referirse a un tipo de gorro cónico que era usado en el antiguo Egipto, en particular por los faraones. En un contexto más amplio, un pílono también puede referirse a cualquier tipo de pilar o torre de forma cónica o piramidal.Etimología: \"Pílono\" proviene del griego \"pȳlōn\", que significa \"puerta\" o \"entrada\", lo cual hace referencia a su uso en la arquitectura egipcia, donde los pílonos eran una característica común en las entradas de los templos.Sinónimos: No hay sinónimos exactos de \"pílonos\" en español, ya que es un término bastante específico. Podría usarse \"torres\" o \"pilares\" en ciertos contextos.Uso en una frase: \"El faraón estaba representado en los jeroglíficos llevando los tradicionales pílonos de la realeza egipcia\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Alferecía"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Alferecía\" es un término médico que se usa en algunos países hispanohablantes para describir un ataque de nervios o una crisis nerviosa. Puede referirse a una variedad de situaciones en las que una persona experimenta síntomas intensos de estrés y ansiedad.Etimología: El origen de \"alferecía\" no está del todo claro, aunque algunos sugieren que podría estar relacionado con \"alférez\", un término militar que se usa para referirse a un tipo de oficial. La conexión podría tener que ver con la tensión y el estrés asociados con las responsabilidades militares.Sinónimos: Algunos sinónimos de \"alferecía\" podrían ser: crisis nerviosa, ataque de nervios, ataque de ansiedad, crisis de ansiedad.Uso en una frase: \"Después de semanas de estrés continuo en el trabajo, tuvo una alferecía y tuvo que tomarse un tiempo para recuperarse\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Guardarropía"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Guardarropía\" es un sustantivo que se utiliza para referirse a un lugar donde se guardan o se depositan los abrigos, sombreros y otros artículos de vestir, generalmente en teatros, cines, restaurantes u otros lugares públicos. En inglés se conoce como \"cloakroom\" o \"checkroom\".Etimología: \"Guardarropía\" es una palabra compuesta que une \"guardar\", que significa conservar o proteger algo, y \"ropa\", que se refiere a los artículos de vestir. Por lo tanto, literalmente significa \"lugar donde se guarda la ropa\".Sinónimos: Algunos sinónimos de \"guardarropía\" podrían ser: ropero, vestuario, consigna.Uso en una frase: \"Cuando llegó al teatro, dejó su abrigo en la guardarropía antes de encontrar su asiento\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Hierático "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Hierático\" puede tener dos significados principales dependiendo del contexto:En un contexto histórico o religioso, \"hierático\" se refiere a algo que es sagrado o está relacionado con los sacerdotes. Este término se usa a menudo para describir cosas que están asociadas con el sacerdocio o con rituales y ceremonias religiosas.En un contexto más específico relacionado con la antigua escritura egipcia, \"hierático\" se refiere a un sistema de escritura cursiva que se utilizaba principalmente por los sacerdotes para escribir documentos religiosos en papiros.Etimología: \"Hierático\" proviene del griego \"hieratikos\", que significa \"sacerdotal\" o \"sagrado\".Sinónimos: Algunos sinónimos de \"hierático\" podrían ser: sacerdotal, sagrado, ceremonial, religioso (en el primer sentido); cursivo, manuscrito (en el segundo sentido).Uso en una frase:\"Las vestimentas hieráticas del sacerdote eran impresionantes durante la ceremonia\".\"El texto hierático en el antiguo papiro egipcio revela detalles sobre las prácticas religiosas de la época\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ensenada"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Ensenada\" es un término geográfico que se utiliza para describir una porción pequeña de mar que penetra en la tierra entre dos cabos o puntas. Es un lugar donde las aguas suelen ser más tranquilas. A menudo, las ensenadas se utilizan para el anclaje de embarcaciones o como lugares para la pesca debido a sus condiciones más protegidas.Etimología: \"Ensenada\" proviene del verbo \"ensenar\", que en su origen significaba \"hacer señas\" o \"mostrar\", posiblemente debido a que estas formaciones geográficas \"muestran\" una parte del mar entre la tierra.Sinónimos: Algunos sinónimos de \"ensenada\" podrían ser: bahía, caleta, cove, rada.Uso en una frase: \"La pequeña embarcación se refugió en la ensenada para protegerse de la tormenta que se avecinaba en alta mar\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Estucado"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Estucado\" es el participio del verbo \"estucar\" que se refiere a la acción de cubrir o revestir una superficie con estuco. El estuco es una mezcla de cal, mármol pulverizado y, a veces, otros componentes que, una vez aplicada y pulida, da un acabado liso y resistente a las paredes y techos.Etimología: \"Estucado\" proviene del italiano \"stucco\" que significa \"estuco\". A su vez, \"stucco\" proviene del griego \"stukkē\" que significa \"masilla\".Sinónimos: Algunos sinónimos de \"estucado\" podrían ser: revestido, enlucido, enjalbegado, recubierto.Uso en una frase: \"El techo estucado del palacio reflejaba delicadamente la luz de los candelabros, creando un efecto impresionante\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Ofídico "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Ofídico\" es un adjetivo que se utiliza para referirse a algo que está relacionado con las serpientes. Este término se usa a menudo en contextos científicos y médicos, como en la herpetología (el estudio de los reptiles y anfibios) o en la descripción de venenos de serpientes.Etimología: \"Ofídico\" proviene del griego \"ophidion\", que significa \"pequeña serpiente\".Sinónimos: Algunos sinónimos de \"ofídico\" podrían ser: serpentino, serpenteante, colubrino.Uso en una frase: \"El antiveneno ofídico se utiliza para tratar las mordeduras de serpientes venenosas\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Taxonomía "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Taxonomía\" es un término científico que se utiliza para referirse al proceso de clasificación de los seres vivos en categorías jerárquicas, basándose en sus características y relaciones evolutivas. Este término es comúnmente usado en biología para hablar de la clasificación de especies, pero también puede usarse en otros campos para describir cualquier sistema de clasificación organizado.Etimología: \"Taxonomía\" proviene del griego \"taxis\", que significa \"ordenamiento\", y \"-nomia\", que significa \"ley\". Entonces, literalmente, taxonomía significa \"ley del ordenamiento\".Sinónimos: Algunos sinónimos de \"taxonomía\" podrían ser: clasificación, ordenamiento, categorización.Uso en una frase: \"La taxonomía biológica clasifica a los seres vivos en categorías como Reino, Filo, Clase, Orden, Familia, Género y Especie\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desatino"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Desatino\" es un sustantivo que se utiliza para describir una acción o decisión que es imprudente, ilógica o equivocada. También puede referirse a palabras o expresiones que carecen de sentido o coherencia.Etimología: \"Desatino\" se compone del prefijo \"des-\", que indica negación o inversión, y \"atino\", del verbo \"atinar\", que significa acertar o tener buen juicio. Por lo tanto, \"desatino\" se refiere a la falta de buen juicio o acierto.Sinónimos: Algunos sinónimos de \"desatino\" podrían ser: disparate, error, equivocación, absurdo, despropósito.Uso en una frase: \"Fue un desatino invertir todo su dinero en esa empresa sin hacer una investigación adecuada\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Pírrico "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Pírrico\" es un adjetivo que se utiliza para describir una victoria o logro que ha tenido un costo tan grande que es casi como una derrota. Este término proviene de la historia de Pirro, un rey de Epiro (una región de la antigua Grecia), que ganó varias batallas contra los romanos pero con un costo en bajas tan grande que se cuestionó el valor de sus victorias.Etimología: \"Pírrico\" proviene de Pyrrhus (Pirro en español), el rey de Epiro que es famoso por sus costosas victorias contra Roma en las Guerras Pírricas (280-275 a.C.).Sinónimos: Algunos sinónimos de \"pírrico\" podrían ser: costoso, ruinoso, devastador.Uso en una frase: \"A pesar de ganar el caso, los altos costos legales hicieron que su victoria fuera pírrica\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Esqueumorfismo"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: El \"esqueumorfismo\" es un término utilizado en diseño y desarrollo de software para describir interfaces gráficas que imitan la apariencia o diseño de objetos físicos. Por ejemplo, si un icono de una aplicación de notas tiene el aspecto de un bloc de notas real, se consideraría esqueumórfico. Este concepto a veces se usa para hacer que las nuevas tecnologías sean más familiares y fáciles de entender, aunque también puede ser objeto de críticas por considerar que limita la innovación en el diseño.Etimología: \"Esqueumorfismo\" proviene del griego \"skhēma\", que significa \"forma\" o \"plan\", y \"morphē\", que significa \"forma\". El término fue acuñado en el contexto del diseño para describir los elementos que conservan ornamentos o características de diseño derivadas de estructuras que eran necesarias en el objeto original, pero que ya no son funcionales en el nuevo modelo.Sinónimos: No existen sinónimos directos para \"esqueumorfismo\", ya que es un término técnico específico.Uso en una frase: \"La aplicación tiene un diseño esqueumórfico que la hace parecer una calculadora de mano de los años 80\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Promontorio"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: Un \"promontorio\" es una formación geográfica consistente en una elevación pronunciada del terreno que se extiende hacia el mar o un lago. A menudo, un promontorio está formado por rocas resistentes que se adentran en el agua, y suele ser un punto de referencia importante en la navegación.Etimología: \"Promontorio\" proviene del latín \"promontorium\", que significa \"monte elevado\".Sinónimos: Algunos sinónimos de \"promontorio\" podrían ser: cabo, península, punta, saliente, morro.Uso en una frase: \"Desde lo alto del promontorio, podíamos ver la vasta extensión del mar y el horizonte en la distancia\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Fielato"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: Un \"fielato\" era un puesto de control en las entradas de las ciudades donde se cobraban los impuestos o tasas por el derecho de entrada de mercancías, particularmente alimentos. Este término es más comúnmente utilizado en el contexto de la historia de España, aunque la función y el propósito de un fielato eran similares a los de las casetas de peaje o los puntos de control aduanero en otros contextos.Etimología: \"Fielato\" proviene del latín \"fidelis\" que significa \"fiel\". El término puede haber surgido porque los funcionarios que trabajaban en los fielatos debían ser \"fieles\" en el cumplimiento de sus deberes de recaudación de impuestos.Sinónimos: Algunos sinónimos de \"fielato\" podrían ser: aduana, caseta de peaje, puesto de control.Uso en una frase: \"En el siglo XIX, los carros que entraban a la ciudad debían detenerse en el fielato para pagar el impuesto sobre las mercancías que traían\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Denuedo "
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Denuedo\" es un sustantivo que se refiere a la valentía, el arrojo o la determinación con que se afronta una situación o se realiza una acción. A menudo se utiliza para alabar el esfuerzo y el valor que alguien muestra al enfrentar dificultades o desafíos.Etimología: \"Denuedo\" proviene del latín \"denodatus\", que significa \"libre de miedo\" o \"desnudo de miedo\".Sinónimos: Algunos sinónimos de \"denuedo\" podrían ser: valentía, arrojo, coraje, osadía, brío, esfuerzo.Uso en una frase: \"A pesar de la dificultad de la tarea, Juan la enfrentó con denuedo y determinación\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Adustez"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Adustez\" es un sustantivo que proviene del adjetivo \"adusto\", que describe algo quemado o tostado por el sol o el fuego. En un sentido más figurado, también se puede utilizar para describir una personalidad dura, severa o poco amigable.Etimología: \"Adustez\" proviene del latín \"adustus\", que es el participio pasado de \"adurere\", que significa \"quemar\". En ese sentido, \"adustez\" se refiere a la cualidad de estar quemado o tostado.Sinónimos: Algunos sinónimos de \"adustez\" podrían ser: severidad, aspereza, dureza, rigor.Uso en una frase: \"La adustez del paisaje desértico se reflejaba en el carácter de sus habitantes\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Desquite"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Desquite\" es un sustantivo que se utiliza para describir el acto de vengarse, resarcirse o compensar un agravio, daño o derrota previos. A veces, también puede referirse a la satisfacción que se obtiene al lograr esto.Etimología: \"Desquite\" proviene del verbo \"desquitar\", que se compone del prefijo \"des-\", que indica inversión o negación, y \"quitar\", que significa \"remover\" o \"sustraer\". Así, literalmente, \"desquitar\" podría interpretarse como \"remover lo que ha sido quitado\", es decir, recuperar algo que se ha perdido o sufrido.Sinónimos: Algunos sinónimos de \"desquite\" podrían ser: venganza, revancha, resarcimiento, compensación.Uso en una frase: \"Después de perder en el partido anterior, el equipo buscaba su desquite en el siguiente encuentro\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Palúdica"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: \"Palúdica\" es un adjetivo que está relacionado con el paludismo, una enfermedad también conocida como malaria. Esta enfermedad es causada por parásitos del género Plasmodium, que se transmiten a través de la picadura de mosquitos infectados del género Anopheles.Etimología: \"Palúdica\" proviene del latín \"palus\", que significa \"pantano\", un lugar común para los mosquitos que transmiten esta enfermedad.Sinónimos: Algunos sinónimos de \"palúdica\" podrían ser: malárica, malarial, relacionada con el paludismo.Uso en una frase: \"La fiebre palúdica es una preocupación de salud grave en muchas partes de África y el sudeste asiático\"."
+  },
+  {
+    "role": "Prompt",
+    "say": "Égida"
+  },
+  {
+    "role": "Response",
+    "say": "Explicación: La palabra \"égida\" se utiliza para referirse a protección, amparo o patrocinio. Es un término que proviene de la mitología griega, en la que la égida era el escudo o coraza de Zeus y Atenea, a menudo representado como un manto de piel de cabra adornado con la cabeza de la Gorgona.Etimología: \"Égida\" proviene del latín \"aegis\", que a su vez proviene del griego \"aigis\", que significa \"piel de cabra\". Este término hace referencia a la piel de la cabra Amaltea, la nodriza que amamantó a Zeus en su infancia.Sinónimos: Algunos sinónimos de \"égida\" podrían ser: protección, resguardo, amparo, tutela.Uso en una frase: \"El acuerdo de paz se firmó bajo la égida de las Naciones Unidas\"."
+  }
 ]
 }

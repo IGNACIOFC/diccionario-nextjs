@@ -1,6 +1,6 @@
 import React from "react";
 import Accordion from "react-bootstrap/Accordion";
-import transformObject from "@/utils/transformArray";
+import ReactMarkdown from 'react-markdown';
 
 const Acordeon = ({ data, category, sortedData }) => {
   function getCategories(inputObject) {
@@ -8,6 +8,7 @@ const Acordeon = ({ data, category, sortedData }) => {
   }
   const categories = getCategories(sortedData);
 
+  console.log('category data', data[categories[category]])
   return (
     <div>
         <div>
@@ -26,12 +27,7 @@ const Acordeon = ({ data, category, sortedData }) => {
               <Accordion.Item key={index} eventKey={index.toString()}>
                 <Accordion.Header>{item.prompt}</Accordion.Header>
                 <Accordion.Body>
-                  {item.response.split("\n").map((line, idx) => (
-                    <React.Fragment key={idx}>
-                      {line}
-                      <br />
-                    </React.Fragment>
-                  ))}
+                 <ReactMarkdown>{item.response}</ReactMarkdown>
                 </Accordion.Body>
               </Accordion.Item>
             ))}

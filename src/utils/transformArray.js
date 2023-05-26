@@ -7,10 +7,10 @@ export default function transformObject(inputObject) {
     for (let i = 0; i < inputArray.length; i += 2) {
       if (inputArray[i].role === "Prompt" && inputArray[i + 1]?.role === "Response") {
         const response = inputArray[i + 1].say
-          .replace("Frase de ejemplo:", "\n\nFrase de ejemplo:")
-          .replace("Ejemplo:", "\n\nEjemplo:")
-          .replace("Sinónimos:", "\n\nSinónimos:");
-
+        .replace("Frase de ejemplo:", "\n\n**Frase de ejemplo:**")
+        .replace("Ejemplo:", "\n\n**Ejemplo:**")
+        .replace("Sinónimos:", "\n\n**Sinónimos:**")
+        .replace("Uso en una frase:", "\n\n**Uso en una frase:**");
         outputObject[category].push({
           prompt: capitalizeFirstLetter(inputArray[i].say),
           response: response,

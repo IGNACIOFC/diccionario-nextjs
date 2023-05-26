@@ -9,7 +9,7 @@ export default function BurguerMenu ({routes, setCategory, category}) {
         <div 
           key={index} 
           onClick={() => setCategory(index)} 
-          className={category === index ? "item-selected" : ""}>
+          className={category === index ? "item-selected paddingVertical" : "paddingVertical"}>
           {route}
         </div>
       ))}

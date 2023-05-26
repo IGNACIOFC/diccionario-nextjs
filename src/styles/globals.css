@@ -120,11 +120,13 @@ a {
   height: 30px;
   left: 36px;
   top: 36px;
+  z-index: 100;
 }
 /* Color/shape of burger icon bars */
 .bm-burger-bars {
-  background: #ffffff;
+  background: #3ff89e;
 }
+
 
 /* Color/shape of burger icon bars on hover*/
 .bm-burger-bars-hover {
@@ -153,11 +155,13 @@ Note: Beware of modifying this element as it can break the animations - you shou
 
 /* General sidebar styles */
 .bm-menu {
-  background: #d8d8d8;
+  background: #3ff89e;
   padding: 2.5em 1.5em 0;
   font-size: 1.15em;
 }
-
+.paddingVertical {
+  padding: 1rem 0;
+}
 /* Morph shape necessary with bubble or elastic */
 .bm-morph-shape {
   fill: #373a47;
