@@ -58,7 +58,7 @@ export default function Home() {
       <div className='container'>
         <main className={styles.main}>
           <div>
-            <BurguerMenu routes={getCategories(dataFormat)} setCategory={setCategory}/>
+            <BurguerMenu routes={getCategories(dataFormat)} category={category} setCategory={setCategory}/>
           </div>
           <div className="d-flex justify-content-between mb-3">
             <Button variant="primary" onClick={handleSort} className="ms-2">
