@@ -5,27 +5,47 @@ import Acordeon from '@/components/Acordeon'
 import content from '../../../public/content.json'
 import Button from "react-bootstrap/Button";
 import FormModal from "@/components/FormModal";
-import transformArray from '@/utils/transformArray'
+import transformObject from '@/utils/transformArray'
+import BurguerMenu from '../BurguerMenu/BurguerMenu'
 
 export default function Home() {
-  const dataFormat = transformArray(content);
+  const dataFormat = transformObject(content);
   const [showModal, setShowModal] = useState(false);
   const [sortedData, setSortedData] = useState(dataFormat);
   const [isSorted, setIsSorted] = useState(false);
+  const [category, setCategory] = useState(0);
 
+  console.log(dataFormat)
   const handleModal = () => {
     setShowModal(!showModal);
   };
 
+  function sortDataAlphabetically(data) {
+    let sortedData = {...data};
+    
+    Object.keys(sortedData).forEach((key) => {
+      sortedData[key] = sortedData[key].sort((a, b) => a.prompt.localeCompare(b.prompt));
+    });
+  
+    return sortedData;
+  }
+  
+  // ...
+  
   const handleSort = () => {
     if (!isSorted) {
-      const sorted = [...sortedData].sort((a, b) => a.prompt.localeCompare(b.prompt));
+      const sorted = sortDataAlphabetically(sortedData);
       setSortedData(sorted);
     } else {
       setSortedData(dataFormat);
     }
     setIsSorted(!isSorted);
   };
+  
+
+  function getCategories(inputObject) {
+    return Object.keys(inputObject);
+  }
 
   return (
     <div>
@@ -37,8 +57,8 @@ export default function Home() {
       </Head>
       <div className='container'>
         <main className={styles.main}>
-          <div className={styles.counter}>
-            {content.length / 2 + " palabras"}
+          <div>
+            <BurguerMenu routes={getCategories(dataFormat)} setCategory={setCategory}/>
           </div>
           <div className="d-flex justify-content-between mb-3">
             <Button variant="primary" onClick={handleSort} className="ms-2">
@@ -49,7 +69,7 @@ export default function Home() {
             </Button>
           </div>
           <FormModal showModal={showModal} handleModal={handleModal} />
-          <Acordeon data={content} sortedData={sortedData} />
+          <Acordeon data={dataFormat} sortedData={sortedData} category={category} />
         </main>
       </div>
     </div>

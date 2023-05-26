@@ -13,9 +13,11 @@
     "@supabase/auth-ui-react": "^0.3.6",
     "@supabase/supabase-js": "^2.21.0",
     "bootstrap": "^5.2.3",
+    "mdb-react-ui-kit": "^6.0.0",
     "next": "13.4.1",
     "react": "18.2.0",
     "react-bootstrap": "^2.7.4",
+    "react-burger-menu": "^3.0.9",
     "react-dom": "18.2.0"
   }
 }
