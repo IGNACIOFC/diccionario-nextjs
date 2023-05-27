@@ -56,10 +56,10 @@ export default function Home() {
       </Head>
       <div className='container'>
         <main className={styles.main}>
-          <div>
+          <div className="d-flex justify-content-between mb-3">
             <BurguerMenu routes={getCategories(dataFormat)} category={category} setCategory={setCategory}/>
           </div>
-          <div className="d-flex justify-content-between mb-3">
+          <div className="d-flex justify-content-between mb-3 pt-5">
             <Button variant="primary" onClick={handleSort} className="ms-2">
               {isSorted ? "Desordenar" : "Ordenar"}
             </Button>

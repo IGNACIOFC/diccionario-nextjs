@@ -119,7 +119,7 @@ a {
   width: 36px;
   height: 30px;
   left: 36px;
-  top: 36px;
+  top: 20px;
   z-index: 100;
 }
 /* Color/shape of burger icon bars */
@@ -150,6 +150,8 @@ Note: Beware of modifying this element as it can break the animations - you shou
 */
 .bm-menu-wrap {
   position: fixed;
+  top: 0;
+  left: 0;
   height: 100%;
 }
 
@@ -161,6 +163,15 @@ Note: Beware of modifying this element as it can break the animations - you shou
 }
 .paddingVertical {
   padding: 1rem 0;
+  cursor: pointer;
+  margin-bottom: 0.1rem;
+}
+.paddingVertical:hover {
+  background: #ffffff;
+  border-radius: 8px;
+  color: #353535;
+  font-weight: 600;
+  font-size: 1.1rem;
 }
 /* Morph shape necessary with bubble or elastic */
 .bm-morph-shape {
@@ -190,5 +201,8 @@ Note: Beware of modifying this element as it can break the animations - you shou
 
 /* Styling of overlay */
 .bm-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
   background: rgba(0, 0, 0, 0.3);
 }
