@@ -12,7 +12,7 @@ export default function Home() {
   const dataFormat = transformObject(content);
   const [showModal, setShowModal] = useState(false);
   const [sortedData, setSortedData] = useState(dataFormat);
-  const [isSorted, setIsSorted] = useState(false);
+  const [isSorted, setIsSorted] = useState(true);
   const [category, setCategory] = useState(0);
 
   const handleModal = () => {
