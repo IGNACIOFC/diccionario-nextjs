@@ -32,7 +32,7 @@ export default function Home() {
   // ...
   
   const handleSort = () => {
-    if (!isSorted) {
+    if (isSorted) {
       const sorted = sortDataAlphabetically(sortedData);
       setSortedData(sorted);
     } else {
