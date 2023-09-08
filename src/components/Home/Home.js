@@ -12,7 +12,7 @@ export default function Home() {
   const dataFormat = transformObject(content);
   const [showModal, setShowModal] = useState(false);
   const [sortedData, setSortedData] = useState(dataFormat);
-  const [isSorted, setIsSorted] = useState(true);
+  const [isSorted, setIsSorted] = useState(false);
   const [category, setCategory] = useState(0);
 
   const handleModal = () => {
@@ -32,7 +32,7 @@ export default function Home() {
   // ...
   
   const handleSort = () => {
-    if (isSorted) {
+    if (!isSorted) {
       const sorted = sortDataAlphabetically(sortedData);
       setSortedData(sorted);
     } else {

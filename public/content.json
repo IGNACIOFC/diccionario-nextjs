@@ -546,7 +546,7 @@
     },
     {
       "role": "Prompt",
-      "say": " Anatema"
+      "say": "Anatema"
     },
     {
       "role": "Response",
@@ -1015,14 +1015,6 @@
     {
       "role": "Response",
       "say": "Explicación: \"Sofisma\" se refiere a un razonamiento o argumento aparentemente correcto y lógico, pero que en realidad es falso o engañoso. Los sofismas se utilizan para confundir o engañar a alguien en un debate o discusión.Etimología: La palabra \"sofisma\" proviene del griego \"sophisma\", que se deriva de \"sophizesthai\", que significa \"convertirse en sabio o erudito\". Originalmente, se refería a las enseñanzas de los sofistas, educadores itinerantes de la antigua Grecia que eran conocidos por su habilidad en retórica y argumentación, aunque no siempre se apegaban a la verdad.Sinónimos: Falacia, engaño, artimaña, subterfugio.Frase de ejemplo: \"A pesar de su elocuencia, los sofismas del orador no pudieron convencer al público informado.\""
-    },
-    {
-      "role": "Prompt",
-      "say": "Anatema"
-    },
-    {
-      "role": "Response",
-      "say": "Explicación: \"Anatema\" es un término que se refiere a una maldición o condena formal, especialmente en un contexto religioso. Originalmente, se refería a una excomunión o a la condenación de alguien o algo como herético. En un uso más general, puede denotar cualquier cosa o persona que sea intensamente desagradable o detestada.Etimología: \"Anatema\" proviene del griego \"anáthema\", que significa \"cosa dedicada\" y originalmente se refería a una ofrenda votiva. Posteriormente, adquirió el sentido de \"maldición\" debido a la práctica de consagrar algo para su destrucción.Sinónimos: Maldición, execración, condena, reprobación.Frase de ejemplo: \"Para la comunidad conservadora, cualquier desviación de sus estrictos valores era considerada un anatema.\""
     },
     {
       "role": "Prompt",
@@ -1698,7 +1690,7 @@
     },
     {
       "role": "Prompt",
-      "say": "\"Reparar\" en la acepción de pensar"
+      "say": "Reparar "
     },
     {
       "role": "Response",
