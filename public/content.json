@@ -1850,19 +1850,11 @@
     },
     {
       "role": "Prompt",
-      "say": "Supersivo"
-    },
-    {
-      "role": "Response",
-      "say": "Lamento, pero \"supersivo\" no parece ser una palabra en el idioma español. Es posible que haya un error tipográfico o que esté confundiéndola con otra palabra. Si tienes un contexto específico en el que se usa o alguna otra información adicional, estaré encantado de ayudarte. Si no, ¿hay alguna otra palabra o consulta con la que pueda asistirte?"
-    },
-    {
-      "role": "Prompt",
       "say": "Subversivo"
     },
     {
       "role": "Response",
-      "say": "SubversivoExplicación: El término \"subversivo\" se refiere a una persona, acción o idea que busca socavar, alterar o derrocar un orden establecido, generalmente en el ámbito político, social o cultural. Puede aplicarse a individuos que actúan en contra de las estructuras de poder existentes o a las ideas y acciones que representan una amenaza para el status quo.Etimología: La palabra \"subversivo\" proviene del latín \"subversivus\", que a su vez se deriva de \"subvertere\", que significa \"volcar\" o \"dar la vuelta\". En este contexto, sugiere la idea de trastornar o invertir el orden de las cosas.Sinónimos: Sedicioso, revolucionario, insurgente, rebelde, agitador.Frase de ejemplo: \"El gobierno declaró que los escritos del periodista eran subversivos y lo detuvo por incitar a la revuelta contra las autoridades\"."
+      "say": "Explicación: El término \"subversivo\" se refiere a una persona, acción o idea que busca socavar, alterar o derrocar un orden establecido, generalmente en el ámbito político, social o cultural. Puede aplicarse a individuos que actúan en contra de las estructuras de poder existentes o a las ideas y acciones que representan una amenaza para el status quo.Etimología: La palabra \"subversivo\" proviene del latín \"subversivus\", que a su vez se deriva de \"subvertere\", que significa \"volcar\" o \"dar la vuelta\". En este contexto, sugiere la idea de trastornar o invertir el orden de las cosas.Sinónimos: Sedicioso, revolucionario, insurgente, rebelde, agitador.Frase de ejemplo: \"El gobierno declaró que los escritos del periodista eran subversivos y lo detuvo por incitar a la revuelta contra las autoridades\"."
     },
     {
       "role": "Prompt",
@@ -1870,7 +1862,7 @@
     },
     {
       "role": "Response",
-      "say": "PropiciatorioExplicación: El término \"propiciatorio\" hace referencia a aquello que sirve para propiciar, es decir, para hacer favorable, benigno o propenso a algo o alguien, especialmente en un contexto religioso. En el ámbito bíblico, el \"propiciatorio\" es una pieza de mobiliario sagrado, una especie de tapa con figuras de querubines, que cubría el Arca de la Alianza en el Templo de Jerusalén, y era considerado el lugar donde Dios se manifestaba y donde el sumo sacerdote hacía expiación por los pecados del pueblo.Etimología: La palabra \"propiciatorio\" viene del latín \"propitiatorius\", derivado de \"propitiare\" que significa \"hacer favorable\" o \"apaciguar\", y a su vez proviene de \"propitius\", que se traduce como \"favorable\".Sinónimos: Expiatorio, conciliador, reconciliador.Frase de ejemplo: \"En la antigua religión, se realizaban rituales propiciatorios para ganarse el favor de los dioses y asegurar una buena cosecha.\""
+      "say": "Explicación: El término \"propiciatorio\" hace referencia a aquello que sirve para propiciar, es decir, para hacer favorable, benigno o propenso a algo o alguien, especialmente en un contexto religioso. En el ámbito bíblico, el \"propiciatorio\" es una pieza de mobiliario sagrado, una especie de tapa con figuras de querubines, que cubría el Arca de la Alianza en el Templo de Jerusalén, y era considerado el lugar donde Dios se manifestaba y donde el sumo sacerdote hacía expiación por los pecados del pueblo.Etimología: La palabra \"propiciatorio\" viene del latín \"propitiatorius\", derivado de \"propitiare\" que significa \"hacer favorable\" o \"apaciguar\", y a su vez proviene de \"propitius\", que se traduce como \"favorable\".Sinónimos: Expiatorio, conciliador, reconciliador.Frase de ejemplo: \"En la antigua religión, se realizaban rituales propiciatorios para ganarse el favor de los dioses y asegurar una buena cosecha.\""
     },
     {
       "role": "Prompt",
@@ -1878,7 +1870,7 @@
     },
     {
       "role": "Response",
-      "say": "SupercheríaExplicación: La palabra \"superchería\" se refiere a un engaño, trampa o falsedad con el propósito de lograr algún fin, muchas veces para obtener un beneficio. Es especialmente usada para describir engaños que tienen una apariencia de veracidad o que se presentan bajo un manto de misticismo, espiritualidad o ciencia, pero carecen de fundamento real.Etimología: El término \"superchería\" proviene del francés \"supercherie\", que significa engaño o fraude, y este a su vez se deriva de \"supercher\", que es \"engañar\" en antiguo francés.Sinónimos: Engaño, fraude, embuste, falsedad, trampa.Frase de ejemplo: \"Muchos consideran que las predicciones astrológicas son simplemente supercherías que carecen de base científica.\""
+      "say": "Explicación: La palabra \"superchería\" se refiere a un engaño, trampa o falsedad con el propósito de lograr algún fin, muchas veces para obtener un beneficio. Es especialmente usada para describir engaños que tienen una apariencia de veracidad o que se presentan bajo un manto de misticismo, espiritualidad o ciencia, pero carecen de fundamento real.Etimología: El término \"superchería\" proviene del francés \"supercherie\", que significa engaño o fraude, y este a su vez se deriva de \"supercher\", que es \"engañar\" en antiguo francés.Sinónimos: Engaño, fraude, embuste, falsedad, trampa.Frase de ejemplo: \"Muchos consideran que las predicciones astrológicas son simplemente supercherías que carecen de base científica.\""
     },
     {
       "role": "Prompt",
@@ -1886,7 +1878,7 @@
     },
     {
       "role": "Response",
-      "say": "ConvenidoExplicación: \"Convenido\" es el participio pasado del verbo \"convenir\". Puede referirse a algo que ha sido acordado o establecido por acuerdo mutuo entre dos o más partes. Además, puede usarse como adjetivo para describir algo que es adecuado o apropiado para una situación determinada.Etimología: Proviene del latín \"convenīre\", que significa \"venir junto\" o \"estar de acuerdo\". Esta palabra se compone del prefijo \"con-\", que significa \"junto\", y \"venīre\", que significa \"venir\".Sinónimos: Acordado, pactado, estipulado, ajustado, establecido.Frase de ejemplo: \"Luego de la reunión, ambos equipos han convenido los términos para el próximo contrato.\""
+      "say": "Explicación: \"Convenido\" es el participio pasado del verbo \"convenir\". Puede referirse a algo que ha sido acordado o establecido por acuerdo mutuo entre dos o más partes. Además, puede usarse como adjetivo para describir algo que es adecuado o apropiado para una situación determinada.Etimología: Proviene del latín \"convenīre\", que significa \"venir junto\" o \"estar de acuerdo\". Esta palabra se compone del prefijo \"con-\", que significa \"junto\", y \"venīre\", que significa \"venir\".Sinónimos: Acordado, pactado, estipulado, ajustado, establecido.Frase de ejemplo: \"Luego de la reunión, ambos equipos han convenido los términos para el próximo contrato.\""
     },
     {
       "role": "Prompt",
@@ -1894,7 +1886,7 @@
     },
     {
       "role": "Response",
-      "say": "DitirámbicoExplicación: \"Ditirámbico\" es un adjetivo que se refiere a algo que es entusiasta o excesivamente elogioso, especialmente en el contexto de un discurso o una escritura. Originalmente, un \"ditirambo\" era un himno antiguo en honor al dios griego Dioniso, que se caracterizaba por su naturaleza apasionada y entusiasta.Etimología: La palabra proviene del griego antiguo \"διθύραμβος\" (dithýrambos), aunque su origen exacto es incierto. Es posible que esté relacionado con la adoración de Dioniso, el dios del vino y el éxtasis.Sinónimos: Elogioso, laudatorio, exuberante, entusiasta, apasionado.Frase de ejemplo: \"El crítico de arte dio una reseña ditirámbica sobre la última exposición, alabando cada pieza hasta el cielo.\""
+      "say": "Explicación: \"Ditirámbico\" es un adjetivo que se refiere a algo que es entusiasta o excesivamente elogioso, especialmente en el contexto de un discurso o una escritura. Originalmente, un \"ditirambo\" era un himno antiguo en honor al dios griego Dioniso, que se caracterizaba por su naturaleza apasionada y entusiasta.Etimología: La palabra proviene del griego antiguo \"διθύραμβος\" (dithýrambos), aunque su origen exacto es incierto. Es posible que esté relacionado con la adoración de Dioniso, el dios del vino y el éxtasis.Sinónimos: Elogioso, laudatorio, exuberante, entusiasta, apasionado.Frase de ejemplo: \"El crítico de arte dio una reseña ditirámbica sobre la última exposición, alabando cada pieza hasta el cielo.\""
     },
     {
       "role": "Prompt",
@@ -1902,7 +1894,7 @@
     },
     {
       "role": "Response",
-      "say": "GnoseológicoExplicación: \"Gnoseológico\" es un adjetivo que tiene relación con la gnoseología, una rama de la filosofía que estudia la naturaleza, origen, y límites del conocimiento humano. La gnoseología se centra en cómo se adquiere el conocimiento, qué es conocer y cuáles son los límites de lo que podemos conocer.Etimología: La palabra proviene del griego \"γνῶσις\" (gnôsis) que significa \"conocimiento\" y \"λογία\" (logía), que significa \"estudio\" o \"tratado\".Sinónimos: Epistemológico (aunque hay sutiles diferencias entre gnoseología y epistemología, en muchos contextos se usan como sinónimos).Frase de ejemplo: \"El debate gnoseológico sobre la posibilidad de conocer la realidad en sí misma ha sido un tema recurrente en la filosofía occidental.\""
+      "say": "Explicación: \"Gnoseológico\" es un adjetivo que tiene relación con la gnoseología, una rama de la filosofía que estudia la naturaleza, origen, y límites del conocimiento humano. La gnoseología se centra en cómo se adquiere el conocimiento, qué es conocer y cuáles son los límites de lo que podemos conocer.Etimología: La palabra proviene del griego \"γνῶσις\" (gnôsis) que significa \"conocimiento\" y \"λογία\" (logía), que significa \"estudio\" o \"tratado\".Sinónimos: Epistemológico (aunque hay sutiles diferencias entre gnoseología y epistemología, en muchos contextos se usan como sinónimos).Frase de ejemplo: \"El debate gnoseológico sobre la posibilidad de conocer la realidad en sí misma ha sido un tema recurrente en la filosofía occidental.\""
     },
     {
       "role": "Prompt",
@@ -1910,7 +1902,7 @@
     },
     {
       "role": "Response",
-      "say": "AlaridoExplicación: \"Alarido\" es un sustantivo masculino que se refiere a un grito fuerte, generalmente emitido por dolor, sorpresa o desesperación. Es una exclamación vocal potente y a menudo descontrolada.Etimología: La palabra \"alarido\" proviene del latín \"alarĭdum\", que es la forma aumentativa de \"alărum\", significando \"ruido\" o \"estrépito\".Sinónimos: Exclamación, clamor, grito, chillido, vocerío.Frase de ejemplo: \"El alarido de sorpresa de la multitud se escuchó en todo el estadio cuando el equipo local anotó el gol ganador en el último minuto.\""
+      "say": "Explicación: \"Alarido\" es un sustantivo masculino que se refiere a un grito fuerte, generalmente emitido por dolor, sorpresa o desesperación. Es una exclamación vocal potente y a menudo descontrolada.Etimología: La palabra \"alarido\" proviene del latín \"alarĭdum\", que es la forma aumentativa de \"alărum\", significando \"ruido\" o \"estrépito\".Sinónimos: Exclamación, clamor, grito, chillido, vocerío.Frase de ejemplo: \"El alarido de sorpresa de la multitud se escuchó en todo el estadio cuando el equipo local anotó el gol ganador en el último minuto.\""
     },
     {
       "role": "Prompt",
@@ -1918,7 +1910,7 @@
     },
     {
       "role": "Response",
-      "say": "EcuménicoExplicación: \"Ecuménico\" es un adjetivo que se refiere a lo que es universal o de carácter general. En un contexto religioso, especialmente en el cristianismo, se utiliza para denotar iniciativas o movimientos que buscan la unidad entre las diferentes iglesias y denominaciones.Etimología: Proviene del griego \"oikoumenikós\", que significa \"universal\", derivado de \"oikoumenē\", que significa \"tierra habitada\".Sinónimos: Universal, general, inclusivo, integrador.Frase de ejemplo: \"El Concilio Ecuménico Vaticano II buscó actualizar y renovar la relación de la Iglesia Católica con el mundo moderno.\""
+      "say": "Explicación: \"Ecuménico\" es un adjetivo que se refiere a lo que es universal o de carácter general. En un contexto religioso, especialmente en el cristianismo, se utiliza para denotar iniciativas o movimientos que buscan la unidad entre las diferentes iglesias y denominaciones.Etimología: Proviene del griego \"oikoumenikós\", que significa \"universal\", derivado de \"oikoumenē\", que significa \"tierra habitada\".Sinónimos: Universal, general, inclusivo, integrador.Frase de ejemplo: \"El Concilio Ecuménico Vaticano II buscó actualizar y renovar la relación de la Iglesia Católica con el mundo moderno.\""
     },
     {
       "role": "Prompt",
@@ -1926,7 +1918,7 @@
     },
     {
       "role": "Response",
-      "say": "MacilentoExplicación: \"Macilento\" es un adjetivo que describe a alguien que tiene un aspecto flaco, demacrado o enjuto, generalmente debido a enfermedad, falta de alimento o cualquier otra circunstancia que cause pérdida de peso o debilidad.Etimología: Proviene del latín \"macilēntus\", que significa \"flaco\" o \"enjuto\".Sinónimos: Enjuto, flaco, demacrado, delgado, consumido.Frase de ejemplo: \"Después de semanas de enfermedad, Juan apareció macilento y con círculos oscuros bajo sus ojos.\""
+      "say": "Explicación: \"Macilento\" es un adjetivo que describe a alguien que tiene un aspecto flaco, demacrado o enjuto, generalmente debido a enfermedad, falta de alimento o cualquier otra circunstancia que cause pérdida de peso o debilidad.Etimología: Proviene del latín \"macilēntus\", que significa \"flaco\" o \"enjuto\".Sinónimos: Enjuto, flaco, demacrado, delgado, consumido.Frase de ejemplo: \"Después de semanas de enfermedad, Juan apareció macilento y con círculos oscuros bajo sus ojos.\""
     },
     {
       "role": "Prompt",
@@ -1934,7 +1926,7 @@
     },
     {
       "role": "Response",
-      "say": "ApuntalarExplicación: \"Apuntalar\" es un verbo que se refiere a la acción de colocar puntales o soportes temporales para sostener o reforzar una estructura, como un edificio o una pared. En un sentido más figurado, puede usarse para indicar el acto de dar apoyo o refuerzo a una idea, argumento o situación.Etimología: Proviene de la combinación de \"a-\" (hacia) y \"puntal\", que es un soporte o refuerzo.Sinónimos: Reforzar, sostener, respaldar, consolidar, asegurar.Frase de ejemplo: \"Debido a los daños que el terremoto causó en el edificio, fue necesario apuntalar algunas paredes para evitar su derrumbe.\""
+      "say": "Explicación: \"Apuntalar\" es un verbo que se refiere a la acción de colocar puntales o soportes temporales para sostener o reforzar una estructura, como un edificio o una pared. En un sentido más figurado, puede usarse para indicar el acto de dar apoyo o refuerzo a una idea, argumento o situación.Etimología: Proviene de la combinación de \"a-\" (hacia) y \"puntal\", que es un soporte o refuerzo.Sinónimos: Reforzar, sostener, respaldar, consolidar, asegurar.Frase de ejemplo: \"Debido a los daños que el terremoto causó en el edificio, fue necesario apuntalar algunas paredes para evitar su derrumbe.\""
     },
     {
       "role": "Prompt",
@@ -1942,7 +1934,7 @@
     },
     {
       "role": "Response",
-      "say": "DenegarExplicación: \"Denegar\" es un verbo que significa rechazar o no conceder lo que se pide o solicita. También puede referirse a la acción de no admitir o reconocer algo.Etimología: Proviene del latín \"denegāre\", formado por \"de-\" (indicando privación) y \"negāre\" (negar).Sinónimos: Rechazar, negar, desaprobar, desestimar, refutar.Frase de ejemplo: \"La solicitud de préstamo fue denegada por el banco debido al historial crediticio del solicitante.\""
+      "say": "Explicación: \"Denegar\" es un verbo que significa rechazar o no conceder lo que se pide o solicita. También puede referirse a la acción de no admitir o reconocer algo.Etimología: Proviene del latín \"denegāre\", formado por \"de-\" (indicando privación) y \"negāre\" (negar).Sinónimos: Rechazar, negar, desaprobar, desestimar, refutar.Frase de ejemplo: \"La solicitud de préstamo fue denegada por el banco debido al historial crediticio del solicitante.\""
     },
     {
       "role": "Prompt",
@@ -1950,7 +1942,7 @@
     },
     {
       "role": "Response",
-      "say": "DelectaciónExplicación: \"Delectación\" es un sustantivo femenino que se refiere al placer o deleite que se experimenta a través de los sentidos o del espíritu. Es una satisfacción o gozo que se obtiene de algo.Etimología: Proviene del latín \"delectatio, delectationis\", que significa placer o deleite.Sinónimos: Deleite, placer, gozo, regocijo, satisfacción.Frase de ejemplo: \"La lectura de ese poema fue una verdadera delectación para mi espíritu.\""
+      "say": "Explicación: \"Delectación\" es un sustantivo femenino que se refiere al placer o deleite que se experimenta a través de los sentidos o del espíritu. Es una satisfacción o gozo que se obtiene de algo.Etimología: Proviene del latín \"delectatio, delectationis\", que significa placer o deleite.Sinónimos: Deleite, placer, gozo, regocijo, satisfacción.Frase de ejemplo: \"La lectura de ese poema fue una verdadera delectación para mi espíritu.\""
     },
     {
       "role": "Prompt",
@@ -1958,7 +1950,7 @@
     },
     {
       "role": "Response",
-      "say": "AvenirseExplicación: \"Avenirse\" es un verbo reflexivo que significa llegar a un acuerdo o conformidad con alguien sobre algún asunto. También puede implicar adaptarse o resignarse a una situación.Etimología: Proviene del latín \"advenīre\", que significa llegar o acercarse.Sinónimos: Conformarse, adaptarse, resignarse, transigir, pactar.Frase de ejemplo: \"Después de varias discusiones, los vecinos se avinieron a establecer turnos para el uso de la lavandería comunitaria.\""
+      "say": "Explicación: \"Avenirse\" es un verbo reflexivo que significa llegar a un acuerdo o conformidad con alguien sobre algún asunto. También puede implicar adaptarse o resignarse a una situación.Etimología: Proviene del latín \"advenīre\", que significa llegar o acercarse.Sinónimos: Conformarse, adaptarse, resignarse, transigir, pactar.Frase de ejemplo: \"Después de varias discusiones, los vecinos se avinieron a establecer turnos para el uso de la lavandería comunitaria.\""
     },
     {
       "role": "Prompt",
@@ -1966,7 +1958,7 @@
     },
     {
       "role": "Response",
-      "say": "AtusarseExplicación: \"Atusarse\" es un verbo reflexivo que significa arreglarse o componerse, especialmente el cabello o la barba, con las manos o algún objeto, como un peine.Etimología: Proviene del latín \"tūsus\" que significa 'raspado', aunque su uso actual se refiere más al acto de arreglar que al de raspar.Sinónimos: Peinarse, alisarse, arreglarse, componerse.Frase de ejemplo: \"Antes de salir de casa, se miró en el espejo y se atusó el cabello rápidamente con las manos.\""
+      "say": "Explicación: \"Atusarse\" es un verbo reflexivo que significa arreglarse o componerse, especialmente el cabello o la barba, con las manos o algún objeto, como un peine.Etimología: Proviene del latín \"tūsus\" que significa 'raspado', aunque su uso actual se refiere más al acto de arreglar que al de raspar.Sinónimos: Peinarse, alisarse, arreglarse, componerse.Frase de ejemplo: \"Antes de salir de casa, se miró en el espejo y se atusó el cabello rápidamente con las manos.\""
     },
     {
       "role": "Prompt",
@@ -1974,7 +1966,7 @@
     },
     {
       "role": "Response",
-      "say": "DispendiarExplicación: \"Dispendiar\" es un verbo que significa gastar o emplear bienes, tiempo o esfuerzos de manera inmoderada, innecesaria o sin justificación.Etimología: Procede del latín \"dispendium\", que significa 'gasto', 'desembolso'.Sinónimos: Malgastar, despilfarrar, derrochar, dilapidar.Frase de ejemplo: \"Se le criticó por dispendiar los recursos de la empresa en proyectos sin futuro.\""
+      "say": "Explicación: \"Dispendiar\" es un verbo que significa gastar o emplear bienes, tiempo o esfuerzos de manera inmoderada, innecesaria o sin justificación.Etimología: Procede del latín \"dispendium\", que significa 'gasto', 'desembolso'.Sinónimos: Malgastar, despilfarrar, derrochar, dilapidar.Frase de ejemplo: \"Se le criticó por dispendiar los recursos de la empresa en proyectos sin futuro.\""
     },
     {
       "role": "Prompt",
@@ -1982,7 +1974,7 @@
     },
     {
       "role": "Response",
-      "say": "ApremioExplicación: \"Apremio\" es un sustantivo que indica urgencia o prisa en hacer algo. También puede referirse a una presión o fuerza que se ejerce sobre alguien para que realice o cumpla con algo. En un contexto legal, puede indicar el acto de exigir el cumplimiento de una obligación, especialmente mediante la ejecución forzosa.Etimología: Deriva del verbo \"apremiar\", que proviene del latín \"premere\" que significa \"presionar\" o \"oprimir\", con el prefijo \"ad-\" que denota dirección o tendencia.Sinónimos: Urgencia, presión, coacción, coerción.Frase de ejemplo: \"El apremio de los plazos hizo que trabajara día y noche para finalizar el proyecto.\""
+      "say": "Explicación: \"Apremio\" es un sustantivo que indica urgencia o prisa en hacer algo. También puede referirse a una presión o fuerza que se ejerce sobre alguien para que realice o cumpla con algo. En un contexto legal, puede indicar el acto de exigir el cumplimiento de una obligación, especialmente mediante la ejecución forzosa.Etimología: Deriva del verbo \"apremiar\", que proviene del latín \"premere\" que significa \"presionar\" o \"oprimir\", con el prefijo \"ad-\" que denota dirección o tendencia.Sinónimos: Urgencia, presión, coacción, coerción.Frase de ejemplo: \"El apremio de los plazos hizo que trabajara día y noche para finalizar el proyecto.\""
     },
     {
       "role": "Prompt",
@@ -1990,7 +1982,7 @@
     },
     {
       "role": "Response",
-      "say": "OprobiosoExplicación: \"Oprobioso\" es un adjetivo que describe algo que causa oprobio, que significa deshonra, infamia o descrédito. Se refiere a algo que es vergonzoso, deshonroso o que lleva consigo un fuerte sentimiento de reproche o desaprobación.Etimología: Proviene del latín \"opprobiosus\", que se deriva de \"opprobrium\", que significa \"reproche\" o \"deshonra\".Sinónimos: Infamante, deshonroso, ignominioso, vejatorio.Frase de ejemplo: \"Las acciones oprobiosas del político dañaron su reputación y su carrera.\""
+      "say": "Explicación: \"Oprobioso\" es un adjetivo que describe algo que causa oprobio, que significa deshonra, infamia o descrédito. Se refiere a algo que es vergonzoso, deshonroso o que lleva consigo un fuerte sentimiento de reproche o desaprobación.Etimología: Proviene del latín \"opprobiosus\", que se deriva de \"opprobrium\", que significa \"reproche\" o \"deshonra\".Sinónimos: Infamante, deshonroso, ignominioso, vejatorio.Frase de ejemplo: \"Las acciones oprobiosas del político dañaron su reputación y su carrera.\""
     },
     {
       "role": "Prompt",
@@ -1998,7 +1990,7 @@
     },
     {
       "role": "Response",
-      "say": "EstólidamenteExplicación: El término \"estólidamente\" es un adverbio que hace referencia a actuar de manera estólida, es decir, de forma necia, insensata o falto de inteligencia. Es una manera de describir una acción o comportamiento que se percibe como tonto o sin reflexión.Etimología: Procede del adjetivo \"estólido\", que a su vez viene del latín \"stolidus\", que significa \"insensible\" o \"torpe\".Sinónimos: Neciamente, tontamente, insensatamente.Frase de ejemplo: \"Estólidamente, Juan olvidó cerrar la puerta tras él, dejando que todos los papeles volaran por la ventana.\""
+      "say": "Explicación: El término \"estólidamente\" es un adverbio que hace referencia a actuar de manera estólida, es decir, de forma necia, insensata o falto de inteligencia. Es una manera de describir una acción o comportamiento que se percibe como tonto o sin reflexión.Etimología: Procede del adjetivo \"estólido\", que a su vez viene del latín \"stolidus\", que significa \"insensible\" o \"torpe\".Sinónimos: Neciamente, tontamente, insensatamente.Frase de ejemplo: \"Estólidamente, Juan olvidó cerrar la puerta tras él, dejando que todos los papeles volaran por la ventana.\""
     },
     {
       "role": "Prompt",
@@ -2006,7 +1998,7 @@
     },
     {
       "role": "Response",
-      "say": "OmnímodoExplicación: El adjetivo \"omnímodo\" se refiere a aquello que tiene todo tipo de poder o facultades, o que es ilimitado en su naturaleza o alcance. Es una palabra que denota totalidad, omnipotencia o un grado extremo de algo.Etimología: Proviene del latín. Se forma por la unión de \"omni-\" que significa \"todo\" y \"modus\" que significa \"modo\" o \"manera\". Por lo tanto, sugiere \"en todo modo\" o \"de toda manera\".Sinónimos: Absoluto, total, completo, ilimitado, incondicional.Frase de ejemplo: \"El rey gobernaba con un poder omnímodo, sin que nadie cuestionara sus decisiones.\""
+      "say": "Explicación: El adjetivo \"omnímodo\" se refiere a aquello que tiene todo tipo de poder o facultades, o que es ilimitado en su naturaleza o alcance. Es una palabra que denota totalidad, omnipotencia o un grado extremo de algo.Etimología: Proviene del latín. Se forma por la unión de \"omni-\" que significa \"todo\" y \"modus\" que significa \"modo\" o \"manera\". Por lo tanto, sugiere \"en todo modo\" o \"de toda manera\".Sinónimos: Absoluto, total, completo, ilimitado, incondicional.Frase de ejemplo: \"El rey gobernaba con un poder omnímodo, sin que nadie cuestionara sus decisiones.\""
     },
     {
       "role": "Prompt",
@@ -2014,7 +2006,7 @@
     },
     {
       "role": "Response",
-      "say": "PogromoExplicación: Un \"pogromo\" se refiere a un ataque violento y masivo dirigido contra una comunidad, especialmente de origen étnico o religioso, acompañado a menudo de la destrucción de sus propiedades, hogares, negocios y lugares religiosos. A lo largo de la historia, los pogromos han sido especialmente asociados con ataques contra judíos en Europa del Este, aunque el término puede ser aplicado a otras comunidades y regiones.Etimología: La palabra \"pogromo\" proviene del ruso \"погром\" (pogrom), que significa \"destrucción\" o \"devastación\".Sinónimos: Masacre, exterminio, matanza, linchamiento.Frase de ejemplo: \"Durante el siglo XIX, varios pogromos en Rusia resultaron en la muerte y desplazamiento de miles de judíos.\""
+      "say": "Explicación: Un \"pogromo\" se refiere a un ataque violento y masivo dirigido contra una comunidad, especialmente de origen étnico o religioso, acompañado a menudo de la destrucción de sus propiedades, hogares, negocios y lugares religiosos. A lo largo de la historia, los pogromos han sido especialmente asociados con ataques contra judíos en Europa del Este, aunque el término puede ser aplicado a otras comunidades y regiones.Etimología: La palabra \"pogromo\" proviene del ruso \"погром\" (pogrom), que significa \"destrucción\" o \"devastación\".Sinónimos: Masacre, exterminio, matanza, linchamiento.Frase de ejemplo: \"Durante el siglo XIX, varios pogromos en Rusia resultaron en la muerte y desplazamiento de miles de judíos.\""
     },
     {
       "role": "Prompt",
@@ -2022,7 +2014,7 @@
     },
     {
       "role": "Response",
-      "say": "GañidoExplicación: Un \"gañido\" es el sonido o quejido que emiten algunos animales, en particular el perro, cuando sienten dolor, miedo o están inquietos. También se utiliza de forma figurada para describir un sonido agudo y lastimero emitido por personas.Etimología: El término \"gañido\" es de origen incierto, pero está relacionado con la idea de un sonido o gemido lastimero.Sinónimos: Quejido, gemido, alarido (en un contexto más intenso), chirriar (en algunos contextos, especialmente referente a sonidos agudos).Frase de ejemplo: \"El perro, al lastimarse la pata, soltó un gañido de dolor que alertó a todos en la casa.\""
+      "say": "Explicación: Un \"gañido\" es el sonido o quejido que emiten algunos animales, en particular el perro, cuando sienten dolor, miedo o están inquietos. También se utiliza de forma figurada para describir un sonido agudo y lastimero emitido por personas.Etimología: El término \"gañido\" es de origen incierto, pero está relacionado con la idea de un sonido o gemido lastimero.Sinónimos: Quejido, gemido, alarido (en un contexto más intenso), chirriar (en algunos contextos, especialmente referente a sonidos agudos).Frase de ejemplo: \"El perro, al lastimarse la pata, soltó un gañido de dolor que alertó a todos en la casa.\""
     },
     {
       "role": "Prompt",
@@ -2030,7 +2022,7 @@
     },
     {
       "role": "Response",
-      "say": "AsuetoExplicación: \"Asueto\" es un sustantivo que se refiere a un descanso, vacación o interrupción del trabajo o de las labores habituales. Es un período en el que una persona se toma un respiro de sus responsabilidades diarias, a menudo con motivo de una festividad o conmemoración.Etimología: \"Asueto\" proviene del latín \"assuētus\", que significa \"acostumbrado\", pero en este contexto, hace referencia al acto de estar desacostumbrado del trabajo.Sinónimos: Descanso, vacación, recreo, feriado, jornada no laborable.Frase de ejemplo: \"El 1 de mayo, por ser el Día del Trabajador, es considerado un día de asueto en muchos países.\""
+      "say": "Explicación: \"Asueto\" es un sustantivo que se refiere a un descanso, vacación o interrupción del trabajo o de las labores habituales. Es un período en el que una persona se toma un respiro de sus responsabilidades diarias, a menudo con motivo de una festividad o conmemoración.Etimología: \"Asueto\" proviene del latín \"assuētus\", que significa \"acostumbrado\", pero en este contexto, hace referencia al acto de estar desacostumbrado del trabajo.Sinónimos: Descanso, vacación, recreo, feriado, jornada no laborable.Frase de ejemplo: \"El 1 de mayo, por ser el Día del Trabajador, es considerado un día de asueto en muchos países.\""
     },
     {
       "role": "Prompt",
@@ -2038,7 +2030,7 @@
     },
     {
       "role": "Response",
-      "say": "FricativasExplicación: Las fricativas son un tipo de consonantes articuladas mediante la aproximación de dos órganos en el tracto vocal, de manera que al pasar el aire produce una fricción audible. Las consonantes fricativas son comunes en muchos idiomas del mundo, incluido el español.Etimología: \"Fricativa\" proviene del latín \"fricare\", que significa \"frotar\". La denominación está relacionada con la fricción que se produce entre las partes del aparato fonador al producir este tipo de sonidos.Sinónimos: No existen sinónimos exactos para el término en el contexto lingüístico, pero términos relacionados pueden ser \"consonante de fricción\" o simplemente \"fricción\".Frase de ejemplo: \"En el español, sonidos como el de la 'f' en 'faro' o el de la 's' en 'sopa' son ejemplos de consonantes fricativas.\""
+      "say": "Explicación: Las fricativas son un tipo de consonantes articuladas mediante la aproximación de dos órganos en el tracto vocal, de manera que al pasar el aire produce una fricción audible. Las consonantes fricativas son comunes en muchos idiomas del mundo, incluido el español.Etimología: \"Fricativa\" proviene del latín \"fricare\", que significa \"frotar\". La denominación está relacionada con la fricción que se produce entre las partes del aparato fonador al producir este tipo de sonidos.Sinónimos: No existen sinónimos exactos para el término en el contexto lingüístico, pero términos relacionados pueden ser \"consonante de fricción\" o simplemente \"fricción\".Frase de ejemplo: \"En el español, sonidos como el de la 'f' en 'faro' o el de la 's' en 'sopa' son ejemplos de consonantes fricativas.\""
     },
     {
       "role": "Prompt",
@@ -2046,7 +2038,7 @@
     },
     {
       "role": "Response",
-      "say": "FagocitarExplicación: \"Fagocitar\" es un verbo que proviene del ámbito de la biología y se refiere al proceso por el cual una célula engulle a otras partículas o células más pequeñas, envolviéndolas y digiriéndolas. Este proceso es fundamental en el sistema inmunológico, donde ciertas células (fagocitos) consumen patógenos y residuos celulares. En un sentido más amplio y figurado, \"fagocitar\" puede hacer referencia a la absorción o asimilación de un grupo o entidad por otro más grande o dominante.Etimología: El término \"fagocitar\" proviene del griego \"phagein\" que significa \"comer\" y \"kutos\", que significa \"hueco\" o \"célula\".Sinónimos: Engullir, absorber, asimilar, consumir.Frase de ejemplo: \"En el mundo empresarial, las grandes corporaciones a menudo fagocitan a las empresas más pequeñas para expandir su dominio en el mercado.\""
+      "say": "Explicación: \"Fagocitar\" es un verbo que proviene del ámbito de la biología y se refiere al proceso por el cual una célula engulle a otras partículas o células más pequeñas, envolviéndolas y digiriéndolas. Este proceso es fundamental en el sistema inmunológico, donde ciertas células (fagocitos) consumen patógenos y residuos celulares. En un sentido más amplio y figurado, \"fagocitar\" puede hacer referencia a la absorción o asimilación de un grupo o entidad por otro más grande o dominante.Etimología: El término \"fagocitar\" proviene del griego \"phagein\" que significa \"comer\" y \"kutos\", que significa \"hueco\" o \"célula\".Sinónimos: Engullir, absorber, asimilar, consumir.Frase de ejemplo: \"En el mundo empresarial, las grandes corporaciones a menudo fagocitan a las empresas más pequeñas para expandir su dominio en el mercado.\""
     },
     {
       "role": "Prompt",
@@ -2054,7 +2046,7 @@
     },
     {
       "role": "Response",
-      "say": "BeneplácitoExplicación: \"Beneplácito\" es un sustantivo que se refiere a la aprobación, consentimiento o complacencia hacia algo o alguien. Es una expresión formal que denota una aceptación favorable, especialmente en contextos oficiales o diplomáticos.Etimología: La palabra \"beneplácito\" proviene del latín \"bene\" que significa \"bien\" y \"placitum\" que significa \"agradable\" o \"aceptado\".Sinónimos: Aprobación, consentimiento, conformidad, asentimiento, permiso.Frase de ejemplo: \"Antes de proceder con la iniciativa, es necesario obtener el beneplácito de la junta directiva.\""
+      "say": "Explicación: \"Beneplácito\" es un sustantivo que se refiere a la aprobación, consentimiento o complacencia hacia algo o alguien. Es una expresión formal que denota una aceptación favorable, especialmente en contextos oficiales o diplomáticos.Etimología: La palabra \"beneplácito\" proviene del latín \"bene\" que significa \"bien\" y \"placitum\" que significa \"agradable\" o \"aceptado\".Sinónimos: Aprobación, consentimiento, conformidad, asentimiento, permiso.Frase de ejemplo: \"Antes de proceder con la iniciativa, es necesario obtener el beneplácito de la junta directiva.\""
     },
     {
       "role": "Prompt",
@@ -2062,7 +2054,7 @@
     },
     {
       "role": "Response",
-      "say": "PamplinasExplicación: \"Pamplinas\" es un sustantivo que se utiliza, sobre todo en España, para referirse a algo que se considera sin importancia, tonto, trivial o carente de sentido. También puede referirse a palabras o acciones que son consideradas como tonterías o sin fundamento.Etimología: Su origen etimológico no está completamente claro, pero se asocia con una evolución de la palabra \"pámpano\", que es una hoja de la vid, haciendo alusión a algo ligero o sin sustancia.Sinónimos: Tonterías, sandeces, nimiedades, chorradas (en un lenguaje coloquial).Frase de ejemplo: \"No pierdas el tiempo escuchando esas pamplinas, concéntrate en lo que realmente importa.\""
+      "say": "Explicación: \"Pamplinas\" es un sustantivo que se utiliza, sobre todo en España, para referirse a algo que se considera sin importancia, tonto, trivial o carente de sentido. También puede referirse a palabras o acciones que son consideradas como tonterías o sin fundamento.Etimología: Su origen etimológico no está completamente claro, pero se asocia con una evolución de la palabra \"pámpano\", que es una hoja de la vid, haciendo alusión a algo ligero o sin sustancia.Sinónimos: Tonterías, sandeces, nimiedades, chorradas (en un lenguaje coloquial).Frase de ejemplo: \"No pierdas el tiempo escuchando esas pamplinas, concéntrate en lo que realmente importa.\""
     },
     {
       "role": "Prompt",
@@ -2070,7 +2062,7 @@
     },
     {
       "role": "Response",
-      "say": "NimbadoExplicación: \"Nimbado\" se refiere a la representación de un nimbo o halo alrededor de la cabeza de una figura, generalmente en el arte sacro, para denotar santidad, divinidad o una presencia celestial. Es típico ver a santos, ángeles y figuras divinas representadas con un nimbo en pinturas y esculturas.Etimología: Proviene del latín \"nimbus\", que significa \"nube\", pero en el arte sacro se adoptó para referirse al halo luminoso que rodea a las figuras santas.Sinónimos: Aureolado, halado.Frase de ejemplo: \"En el antiguo fresco, la figura central estaba nimbada, destacando su carácter divino entre los demás personajes.\""
+      "say": "Explicación: \"Nimbado\" se refiere a la representación de un nimbo o halo alrededor de la cabeza de una figura, generalmente en el arte sacro, para denotar santidad, divinidad o una presencia celestial. Es típico ver a santos, ángeles y figuras divinas representadas con un nimbo en pinturas y esculturas.Etimología: Proviene del latín \"nimbus\", que significa \"nube\", pero en el arte sacro se adoptó para referirse al halo luminoso que rodea a las figuras santas.Sinónimos: Aureolado, halado.Frase de ejemplo: \"En el antiguo fresco, la figura central estaba nimbada, destacando su carácter divino entre los demás personajes.\""
     },
     {
       "role": "Prompt",
@@ -2078,7 +2070,7 @@
     },
     {
       "role": "Response",
-      "say": "FerazExplicación: \"Feraz\" es un adjetivo que describe algo que es fértil, productivo o que da fruto abundantemente. Se utiliza para referirse tanto a tierras como a personas en sentido figurado, indicando una gran capacidad de producción o creatividad.Etimología: Proviene del latín \"fērāx\", de \"ferre\" que significa \"llevar\" o \"producir\".Sinónimos: Fértil, productivo, prolífico.Frase de ejemplo: \"La tierra feraz del valle proporcionaba cosechas abundantes año tras año.\""
+      "say": "Explicación: \"Feraz\" es un adjetivo que describe algo que es fértil, productivo o que da fruto abundantemente. Se utiliza para referirse tanto a tierras como a personas en sentido figurado, indicando una gran capacidad de producción o creatividad.Etimología: Proviene del latín \"fērāx\", de \"ferre\" que significa \"llevar\" o \"producir\".Sinónimos: Fértil, productivo, prolífico.Frase de ejemplo: \"La tierra feraz del valle proporcionaba cosechas abundantes año tras año.\""
     },
     {
       "role": "Prompt",
@@ -2086,7 +2078,7 @@
     },
     {
       "role": "Response",
-      "say": "LetaníaExplicación: \"Letanía\" tiene dos significados principales. En el contexto religioso, se refiere a una serie de súplicas o peticiones dirigidas a Dios, a la Virgen María o a los santos, que se repiten en ciertos rituales, especialmente en la liturgia católica. En un contexto más general, \"letanía\" puede referirse a una larga lista o serie repetitiva de quejas, problemas o características.Etimología: Proviene del latín \"litania\", que a su vez proviene del griego \"λιτανεία\" (litaneía) que significa \"súplica\".Sinónimos: Súplica, rogativa, serie, relación, enumeración.Frase de ejemplo: \"Después de escuchar la letanía de quejas de su vecino sobre la comunidad, decidió participar en las reuniones para proponer soluciones.\""
+      "say": "Explicación: \"Letanía\" tiene dos significados principales. En el contexto religioso, se refiere a una serie de súplicas o peticiones dirigidas a Dios, a la Virgen María o a los santos, que se repiten en ciertos rituales, especialmente en la liturgia católica. En un contexto más general, \"letanía\" puede referirse a una larga lista o serie repetitiva de quejas, problemas o características.Etimología: Proviene del latín \"litania\", que a su vez proviene del griego \"λιτανεία\" (litaneía) que significa \"súplica\".Sinónimos: Súplica, rogativa, serie, relación, enumeración.Frase de ejemplo: \"Después de escuchar la letanía de quejas de su vecino sobre la comunidad, decidió participar en las reuniones para proponer soluciones.\""
     },
     {
       "role": "Prompt",
@@ -2094,7 +2086,7 @@
     },
     {
       "role": "Response",
-      "say": "FilatélicaExplicación: La filatélica es la ciencia y el estudio de los sellos postales y los materiales relacionados. Los individuos que coleccionan sellos postales se llaman filatelistas. Esta actividad implica el coleccionismo y estudio de sellos, sobres y otros documentos postales, principalmente por su valor histórico, artístico o geográfico.Etimología: Proviene del francés \"philatélie\", que a su vez se deriva del griego \"φίλος\" (philos) que significa \"amante\" y \"ἀτέλεια\" (ateleia) que significa \"exento de pago\", haciendo referencia a la franquicia postal.Sinónimos: Estudio de sellos, coleccionismo postal.Frase de ejemplo: \"María inició su pasión por la filatélica a una edad temprana, y ahora tiene una de las colecciones más impresionantes de sellos de América del Sur.\""
+      "say": "Explicación: La filatélica es la ciencia y el estudio de los sellos postales y los materiales relacionados. Los individuos que coleccionan sellos postales se llaman filatelistas. Esta actividad implica el coleccionismo y estudio de sellos, sobres y otros documentos postales, principalmente por su valor histórico, artístico o geográfico.Etimología: Proviene del francés \"philatélie\", que a su vez se deriva del griego \"φίλος\" (philos) que significa \"amante\" y \"ἀτέλεια\" (ateleia) que significa \"exento de pago\", haciendo referencia a la franquicia postal.Sinónimos: Estudio de sellos, coleccionismo postal.Frase de ejemplo: \"María inició su pasión por la filatélica a una edad temprana, y ahora tiene una de las colecciones más impresionantes de sellos de América del Sur.\""
     },
     {
       "role": "Prompt",
@@ -2102,7 +2094,7 @@
     },
     {
       "role": "Response",
-      "say": "ComitivaExplicación: Una \"comitiva\" es un grupo de personas que acompaña a alguien importante o notable en una ceremonia, viaje o evento similar. Puede referirse tanto a un séquito que sigue a una figura de autoridad o celebridad, como a un conjunto de individuos que asisten en un cortejo o procesión.Etimología: Proviene del latín \"comitātīvus\", derivado de \"comes\", que significa \"compañero\".Sinónimos: Séquito, cortejo, procesión, acompañamiento, escolta.Frase de ejemplo: \"El rey llegó al castillo acompañado de una impresionante comitiva de nobles y caballeros.\""
+      "say": "Explicación: Una \"comitiva\" es un grupo de personas que acompaña a alguien importante o notable en una ceremonia, viaje o evento similar. Puede referirse tanto a un séquito que sigue a una figura de autoridad o celebridad, como a un conjunto de individuos que asisten en un cortejo o procesión.Etimología: Proviene del latín \"comitātīvus\", derivado de \"comes\", que significa \"compañero\".Sinónimos: Séquito, cortejo, procesión, acompañamiento, escolta.Frase de ejemplo: \"El rey llegó al castillo acompañado de una impresionante comitiva de nobles y caballeros.\""
     },
     {
       "role": "Prompt",
@@ -2110,7 +2102,7 @@
     },
     {
       "role": "Response",
-      "say": "AlmadíaExplicación: Una \"almadía\" es una especie de balsa o embarcación rudimentaria, tradicionalmente hecha de troncos unidos, utilizada principalmente para el transporte de madera por ríos. Las almadías se utilizaban para descender por los ríos transportando troncos desde zonas de tala hasta lugares donde la madera podía ser procesada o vendida.Etimología: Su origen es incierto, pero podría provenir del árabe \"almadíyya\", que significa \"barco\".Sinónimos: Balsa, jangada (en ciertas regiones), balseo.Frase de ejemplo: \"En la región montañosa, los leñadores solían usar almadías para transportar los troncos por el río hasta el pueblo más cercano.\""
+      "say": "Explicación: Una \"almadía\" es una especie de balsa o embarcación rudimentaria, tradicionalmente hecha de troncos unidos, utilizada principalmente para el transporte de madera por ríos. Las almadías se utilizaban para descender por los ríos transportando troncos desde zonas de tala hasta lugares donde la madera podía ser procesada o vendida.Etimología: Su origen es incierto, pero podría provenir del árabe \"almadíyya\", que significa \"barco\".Sinónimos: Balsa, jangada (en ciertas regiones), balseo.Frase de ejemplo: \"En la región montañosa, los leñadores solían usar almadías para transportar los troncos por el río hasta el pueblo más cercano.\""
     },
     {
       "role": "Prompt",
@@ -2118,7 +2110,7 @@
     },
     {
       "role": "Response",
-      "say": "MahoutExplicación: Un \"mahout\" es una persona que monta, cuida y entrena elefantes, tradicionalmente en el sur de Asia. El mahout tiene una relación especial con el elefante que cuida, a menudo formando un vínculo a lo largo de muchos años. Usualmente, el mahout y el elefante se emparejan desde que el elefante es joven, y se capacitan juntos para trabajar en diversas actividades, ya sea en la industria maderera, el turismo o ceremonias religiosas.Etimología: La palabra \"mahout\" proviene del hindi \"mahaut\" y este, a su vez, del sánscrito \"mahamatra\", que significa \"gran medida\".Sinónimos: Cuidador de elefantes, conductor de elefantes.Frase de ejemplo: \"El mahout demostró una impresionante habilidad y entendimiento con su elefante durante la ceremonia del templo.\""
+      "say": "Explicación: Un \"mahout\" es una persona que monta, cuida y entrena elefantes, tradicionalmente en el sur de Asia. El mahout tiene una relación especial con el elefante que cuida, a menudo formando un vínculo a lo largo de muchos años. Usualmente, el mahout y el elefante se emparejan desde que el elefante es joven, y se capacitan juntos para trabajar en diversas actividades, ya sea en la industria maderera, el turismo o ceremonias religiosas.Etimología: La palabra \"mahout\" proviene del hindi \"mahaut\" y este, a su vez, del sánscrito \"mahamatra\", que significa \"gran medida\".Sinónimos: Cuidador de elefantes, conductor de elefantes.Frase de ejemplo: \"El mahout demostró una impresionante habilidad y entendimiento con su elefante durante la ceremonia del templo.\""
     },
     {
       "role": "Prompt",
@@ -2126,7 +2118,7 @@
     },
     {
       "role": "Response",
-      "say": "CorrimientoExplicación: El término \"corrimiento\" tiene varios significados dependiendo del contexto. En geología, se refiere al movimiento o desplazamiento de masas de tierra o rocas en una pendiente debido a la gravedad, comúnmente conocido como deslizamiento. En física y óptica, el \"corrimiento al rojo\" se refiere al fenómeno en el que la luz o cualquier otra radiación electromagnética de un objeto se desplaza hacia el extremo rojo del espectro, generalmente debido a la expansión del universo.Etimología: Proviene del verbo \"correr\", en referencia al acto de moverse o desplazarse.Sinónimos: Deslizamiento (en contexto geológico), desplazamiento.Frase de ejemplo: \"Después de las fuertes lluvias, hubo un corrimiento de tierra que bloqueó la carretera principal.\""
+      "say": "Explicación: El término \"corrimiento\" tiene varios significados dependiendo del contexto. En geología, se refiere al movimiento o desplazamiento de masas de tierra o rocas en una pendiente debido a la gravedad, comúnmente conocido como deslizamiento. En física y óptica, el \"corrimiento al rojo\" se refiere al fenómeno en el que la luz o cualquier otra radiación electromagnética de un objeto se desplaza hacia el extremo rojo del espectro, generalmente debido a la expansión del universo.Etimología: Proviene del verbo \"correr\", en referencia al acto de moverse o desplazarse.Sinónimos: Deslizamiento (en contexto geológico), desplazamiento.Frase de ejemplo: \"Después de las fuertes lluvias, hubo un corrimiento de tierra que bloqueó la carretera principal.\""
     },
     {
       "role": "Prompt",
@@ -2134,7 +2126,7 @@
     },
     {
       "role": "Response",
-      "say": "VenabloExplicación: Un \"venablo\" es una especie de lanza o dardo que se utilizaba antiguamente como arma, especialmente para la caza o en la guerra. Es una arma arrojadiza diseñada para ser lanzada con la mano.Etimología: La palabra \"venablo\" proviene del latín \"venābulum\", que significa \"instrumento de caza\" y está relacionado con \"venari\", que significa \"cazar\".Sinónimos: Dardo, jabalina, lanza.Frase de ejemplo: \"El guerrero antiguo estaba equipado con un escudo y un venablo, preparado para enfrentarse al enemigo en el campo de batalla.\""
+      "say": "Explicación: Un \"venablo\" es una especie de lanza o dardo que se utilizaba antiguamente como arma, especialmente para la caza o en la guerra. Es una arma arrojadiza diseñada para ser lanzada con la mano.Etimología: La palabra \"venablo\" proviene del latín \"venābulum\", que significa \"instrumento de caza\" y está relacionado con \"venari\", que significa \"cazar\".Sinónimos: Dardo, jabalina, lanza.Frase de ejemplo: \"El guerrero antiguo estaba equipado con un escudo y un venablo, preparado para enfrentarse al enemigo en el campo de batalla.\""
     },
     {
       "role": "Prompt",
@@ -2142,7 +2134,7 @@
     },
     {
       "role": "Response",
-      "say": "PontonesExplicación: \"Pontones\" se refiere a una serie de barcazas o embarcaciones, generalmente unidas entre sí, que se utilizan para formar un puente temporal sobre una extensión de agua. En contextos históricos, especialmente en situaciones militares, los pontones se han utilizado para permitir el paso de tropas y equipos a través de ríos u otros cuerpos de agua. Además, el término \"pontón\" también ha sido usado para referirse a embarcaciones o estructuras flotantes usadas como prisión.Etimología: La palabra \"pontón\" proviene del francés \"ponton\", que a su vez se deriva del latín \"pontus\", relacionado con \"pons\" que significa \"puente\".Sinónimos: Barcaza, balsa.Frase de ejemplo: \"Durante la campaña militar, el ejército construyó rápidamente pontones para cruzar el río y continuar su marcha.\""
+      "say": "Explicación: \"Pontones\" se refiere a una serie de barcazas o embarcaciones, generalmente unidas entre sí, que se utilizan para formar un puente temporal sobre una extensión de agua. En contextos históricos, especialmente en situaciones militares, los pontones se han utilizado para permitir el paso de tropas y equipos a través de ríos u otros cuerpos de agua. Además, el término \"pontón\" también ha sido usado para referirse a embarcaciones o estructuras flotantes usadas como prisión.Etimología: La palabra \"pontón\" proviene del francés \"ponton\", que a su vez se deriva del latín \"pontus\", relacionado con \"pons\" que significa \"puente\".Sinónimos: Barcaza, balsa.Frase de ejemplo: \"Durante la campaña militar, el ejército construyó rápidamente pontones para cruzar el río y continuar su marcha.\""
     },
     {
       "role": "Prompt",
@@ -2150,7 +2142,7 @@
     },
     {
       "role": "Response",
-      "say": "OprobioExplicación: \"Oprobio\" es un sustantivo que denota deshonra, descrédito, infamia o afrenta. Se refiere a una situación o acción que provoca vergüenza o a un ultraje a la dignidad de alguien. También puede ser usado para referirse a una gran desgracia o calamidad.Etimología: Proviene del latín \"opprobrium\", que significa \"reproche\" o \"infamia\".Sinónimos: Afrenta, deshonra, ignominia, infamia, ultraje, vituperio, descrédito.Frase de ejemplo: \"La corrupción en el gobierno es un oprobio para la nación y sus ciudadanos.\""
+      "say": "Explicación: \"Oprobio\" es un sustantivo que denota deshonra, descrédito, infamia o afrenta. Se refiere a una situación o acción que provoca vergüenza o a un ultraje a la dignidad de alguien. También puede ser usado para referirse a una gran desgracia o calamidad.Etimología: Proviene del latín \"opprobrium\", que significa \"reproche\" o \"infamia\".Sinónimos: Afrenta, deshonra, ignominia, infamia, ultraje, vituperio, descrédito.Frase de ejemplo: \"La corrupción en el gobierno es un oprobio para la nación y sus ciudadanos.\""
     },
     {
       "role": "Prompt",
@@ -2158,7 +2150,7 @@
     },
     {
       "role": "Response",
-      "say": "CanónicoExplicación: El término \"canónico\" se refiere a lo que está relacionado con o es conforme a un canon o regla. Se utiliza en diversos contextos, siendo uno de los más comunes el religioso, para referirse a lo que se ajusta a las normas o leyes eclesiásticas. También puede hacer alusión a lo que es considerado un estándar o modelo en un campo determinado.Etimología: El término proviene del latín \"canonicus\", que a su vez deriva del griego \"kanonikós\", que significa \"relativo a una regla\".Sinónimos: Normativo, reglamentario, reglado, conforme al canon.Frase de ejemplo: \"La interpretación canónica de ese pasaje bíblico ha sido motivo de debate durante siglos.\""
+      "say": "Explicación: El término \"canónico\" se refiere a lo que está relacionado con o es conforme a un canon o regla. Se utiliza en diversos contextos, siendo uno de los más comunes el religioso, para referirse a lo que se ajusta a las normas o leyes eclesiásticas. También puede hacer alusión a lo que es considerado un estándar o modelo en un campo determinado.Etimología: El término proviene del latín \"canonicus\", que a su vez deriva del griego \"kanonikós\", que significa \"relativo a una regla\".Sinónimos: Normativo, reglamentario, reglado, conforme al canon.Frase de ejemplo: \"La interpretación canónica de ese pasaje bíblico ha sido motivo de debate durante siglos.\""
     },
     {
       "role": "Prompt",
